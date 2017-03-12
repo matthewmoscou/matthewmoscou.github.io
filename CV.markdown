@@ -51,14 +51,14 @@ James Cornette Research Fellowship in Bioinformatics and Computational Biology, 
 
 ## Peer-Reviewed Publications
 ### 2017
-Hisano, H., Meints, B., Moscou, M.J., Cistue, L., Echávarri, B., Sato, K., and Hayes, P.M. (2017) Selection of transformation efficient lines in the Oregon Promise barley mapping population based on <i>TFA</i> (transformation amenability) haplotype. <i>Plant Cell Reports</i>. Accepted.
+Hisano, H., Meints, B., Moscou, M.J., Cistue, L., Echávarri, B., Sato, K., and Hayes, P.M. (2017) Selection of transformation efficient lines in the Oregon Promise barley mapping population based on <i>TFA</i> (transformation amenability) haplotype. <b><i>Plant Cell Reports</i></b> Accepted.
 
-Yu, G., Champouret, N., Steuernagel, B., Olivera, P.D., Simmons, J. Williams, C. Johnson, R., Moscou, M.J., Hernández-Pinzón, I., Green, P., Sela, H., Millet, E., Jones, J.D.G., Ward, E.R., Steffenson, B.J., and Wulff, B.B.H. (2017) Discovery and characterization of two new stem rust resistance genes in <i>Aegilops sharonensis</i>. <i>Theoretical and Applied Genetics</i>. Accepted.
+Yu, G., Champouret, N., Steuernagel, B., Olivera, P.D., Simmons, J. Williams, C. Johnson, R., Moscou, M.J., Hernández-Pinzón, I., Green, P., Sela, H., Millet, E., Jones, J.D.G., Ward, E.R., Steffenson, B.J., and Wulff, B.B.H. (2017) Discovery and characterization of two new stem rust resistance genes in <i>Aegilops sharonensis</i>. <b><i>Theoretical and Applied Genetics</i></b> Accepted.
 
-Bettgenhaeuser, J., Corke, F.M.K., Opanowicz, M., Green, P., Hernández-Pinzón, I., Doonan, J.H., Moscou, M.J. (2017) Natural variation in Brachypodium distachyon links VRN2 and FT loci as major flowering determinants. Plant Physiology. Accepted. doi: 10.1104/pp.16.00813
+Bettgenhaeuser, J., Corke, F.M.K., Opanowicz, M., Green, P., Hernández-Pinzón, I., Doonan, J.H., Moscou, M.J. (2017) Natural variation in <i>Brachypodium</i> links vernalization and flowering time loci as major flowering determinants. <b><i>Plant Physiology</i></b> <b>173</b>:256-268 [doi:10.1104/pp.16.00813](https://doi.org/10.1104/pp.16.00813)
 
 ### 2016
-Le Fevre, R., O’Boyle, B., Moscou, M.J., and Schornack S. 2016. Colonization of barley by the broad-host hemibiotrophic pathogen Phytophthora palmivora uncovers a leaf development dependent involvement of MLO. Molecular Plant-Microbe Interactions. 29(5): 385-395. doi: 10.1094/MPMI-12-15-0276-R
+Le Fevre, R., O’Boyle, B., Moscou, M.J., and Schornack S. (2016) Colonization of barley by the broad-host hemibiotrophic pathogen <i>Phytophthora palmivora</i> uncovers a leaf development dependent involvement of <i>MLO</i>. <b><i>Molecular Plant-Microbe Interactions</i></b> <b>29</b>: 385-395. [doi:10.1094/MPMI-12-15-0276-R](https://doi.org/10.1094/MPMI-12-15-0276-R)
 
 Dawson, A.M., Ferguson, J., Gardiner, M., Green, P., Hubbard, A., and Moscou, M.J. 2016. Isolation and fine mapping of Rps6: An intermediate host resistance gene in barley to wheat stripe rust. Theoretical and Applied Genetics. 129: 931-843. doi: 10.1007/s00122-015-2659-x
 
