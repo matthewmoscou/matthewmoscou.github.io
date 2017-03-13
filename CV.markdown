@@ -6,6 +6,8 @@ permalink: /CV/
 
 # <b>Matthew James Moscou</b>
 
+![alt text](https://raw.githubusercontent.com/matthewmoscou/matthewmoscou.github.io/master/_images/orcid-logo.png "ORCID ID"){:height="12px" width="12px"} [http://orcid.org/0000-0003-2098-6818](http://orcid.org/0000-0003-2098-6818)
+
 ## Address
 The Sainsbury Laboratory  
 Norwich Research Park  
@@ -15,12 +17,12 @@ United Kingdom
 
 ## Contact information
 Office: +44 (0) 1603 450 296  
-Email:  matthew.moscou@sainsbury-laboratory.ac.uk
+Email: matthew.moscou@sainsbury-laboratory.ac.uk
 
 ## Education
-Iowa State University, Bioinformatics and Computational Biology, Ph.D., 2010 	  
-University of California, Riverside, Pure Mathematics, B.S., 2004 	  
-University of California, Riverside, Physics, B.S., 2004 	  
+Iowa State University, Bioinformatics and Computational Biology, Ph.D., 2010   
+University of California, Riverside, Pure Mathematics, B.S., 2004   
+University of California, Riverside, Physics, B.S., 2004   
 
 ## Dissertation
 Deciphering the transcriptional regulation and response of barley to obligate fungal biotroph invasion  
@@ -51,7 +53,7 @@ James Cornette Research Fellowship in Bioinformatics and Computational Biology, 
 
 ## Publications
 ### 2017
-Yu, G., Champouret, N., Steuernagel, B., Olivera, P.D., Simmons, J. Williams, C. Johnson, R., Moscou, M.J., Hernández-Pinzón, I., Green, P., Sela, H., Millet, E., Jones, J.D.G., Ward, E.R., Steffenson, B.J., and Wulff, B.B.H. (2017) Discovery and characterization of two new stem rust resistance genes in <i>Aegilops sharonensis</i>. <b><i>Theoretical and Applied Genetics</i></b> Accepted.
+Yu, G., Champouret, N., Steuernagel, B., Olivera, P.D., Simmons, J. Williams, C. Johnson, R., Moscou, M.J., Hernández-Pinzón, I., Green, P., Sela, H., Millet, E., Jones, J.D.G., Ward, E.R., Steffenson, B.J., and Wulff, B.B.H. (2017) Discovery and characterization of two new stem rust resistance genes in <i>Aegilops sharonensis</i>. <b><i>Theoretical and Applied Genetics</i></b> Accepted. [doi:10.1007/s00122-017-2882-8](https://doi.org/10.1007/s00122-017-2882-8)
 
 Hisano, H., Meints, B., Moscou, M.J., Cistue, L., Echávarri, B., Sato, K., and Hayes, P.M. (2017) Selection of transformation-efficient barley genotypes based on <i>TFA</i> (transformation amenability) haplotype and higher resolution mapping of the <i>TFA</i> loci <b><i>Plant Cell Reports</i></b> Accepted. [doi:10.1007/s00299-017-2107-2](https://doi.org/10.1007/s00299-017-2107-2)
 
@@ -70,16 +72,16 @@ Muñoz-Amatriaín, M., Lonardi, S., Luo, M. C., Madishetty, K., Svensson, J.T., 
 Knight, E., Binnie, A., Draeger, T., Moscou, M., Rey, M., Sucher, J., Mehra, S., King, I., and Moore, G. (2015) Mapping the ‘breaker’ element of the gametocidal locus proximal to a block of sub-telomeric heterochromatin on the long arm of chromosome 4S<sup>sh</sup> of <i>Aegilops sharonensis</i>. <b><i>Theoretical and Applied Genetics</i></b> <b>128</b>(6):1049-1059 [doi:10.1007/s00122-015-2489-x](https://doi.org/10.1007/s00122-015-2489-x)
 
 ### 2014
-Wulff, B.H.H. and Moscou, M.J. (2014) Strategies for transferring resistance into wheat: from wide crosses to GM cassettes. <b><i>Frontiers in Plant Science</i></b> [doi:10.3389/fpls.2014.00664](https://doi.org/10.3389/fpls.2014.00664)
+Wulff, B.H.H. and Moscou, M.J. (2014) Strategies for transferring resistance into wheat: from wide crosses to GM cassettes. <b><i>Frontiers in Plant Science</i></b> <b>5</b>:692 [doi:10.3389/fpls.2014.00664](https://doi.org/10.3389/fpls.2014.00664)
 
-Bettgenhaeuser, J., Gilbert, M., Ayliffe, M., Moscou, M.J. (2014) Nonhost resistance to rust pathogens – a continuation of continua. <b><i>Frontiers in Plant Science</i></b> [doi:10.3389/fpls.2014.00664](https://doi.org/10.3389/fpls.2014.00664)
+Bettgenhaeuser, J., Gilbert, M., Ayliffe, M., Moscou, M.J. (2014) Nonhost resistance to rust pathogens – a continuation of continua. <b><i>Frontiers in Plant Science</i></b> <b>5</b>:664 [doi:10.3389/fpls.2014.00664](https://doi.org/10.3389/fpls.2014.00664)
 
 ### 2013
 Bouyioukos, C., Moscou, M.J., Champouret, N., Hernández-Pinzón I., Ward E.R. and Wulff B.B.H. (2013) Characterisation and analysis of the <i>Aegilops sharonensis</i> transcriptome, a wild relative of wheat in the Sitopsis section. <b><i>PLoS ONE</i><b> <b>8</b>(8): e72782. [doi:10.1371/journal.pone.0072782](https://doi.org/10.1371/journal.pone.0072782)
 
 Ayliffe, M. Singh, D., Park, R., Moscou, M., Pryor, T. (2013) The infection of <i>Brachypodium distachyon</i> with selected grass rust pathogens. <b><i>Molecular Plant-Microbe Interactions</i></b> <b>26</b>(8): 946-957 [doi:10.1094/MPMI-01-13-0017-R](https://doi.org/10.1094/MPMI-01-13-0017-R)
 
-Schornack, S., Moscou, M.J., Ward, E.R., and Horvath, D. M. (2013) Engineering plant disease resistance based on TAL effectors. <b><i>Annual Review of Phytopathology</i></b> <b>51</b>:383-406.
+Schornack, S., Moscou, M.J., Ward, E.R., and Horvath, D. M. (2013) Engineering plant disease resistance based on TAL effectors. <b><i>Annual Review of Phytopathology</i></b> <b>51</b>:383-406 [doi:10.1146/annurev-phyto-082712-102255](https://doi.org/10.1146/annurev-phyto-082712-102255)
 
 ### 2012
 The International Barley Genome Sequencing Consortium (IBSC). (2012) A physical, genetic and functional sequence assembly of the barley genome. <b><i>Nature</i></b> <b>491</b>: 711-716 [doi:10.1038/nature11543](https://doi.org/10.1038/nature11543)
@@ -87,33 +89,31 @@ The International Barley Genome Sequencing Consortium (IBSC). (2012) A physical,
 Moeller, J.R., Moscou, M.J., Bancroft, T., Skadsen, R.W., Wise, R.P., and Whitham, S.A. (2012) Differential accumulation of host mRNAs on polyribosomes during obligate pathogen-plant interactions. <b><i>Molecular BioSystems</i></b> <b>8</b>:2153-2165 [doi:10.1039/C2MB25014D](https://doi.org/10.1039/C2MB25014D)
 
 ### 2011
-Muñoz-Amatriaín, M.*, Moscou, M.J.*, Bhat, P.R., Svensson, J.T., Bartoš, J., Suchánková, P., Šimková, H., Endo, T.R., Fenton, R. D., Wu, Y., Lonardi, S., Castillo, A.M., Chao, S., Cistué, L., Cuesta-Marcos, A., Forrest, K., Hayden, M.J., Hayes, P.M., Horsley, R.D., Kleinhofs, A., Moody, D., Sato, K., Vallés, M.P., Wulff, B.B.H., Muehlbauer, G.J., Doležel, J., and Close, T.J. (2011) An improved consensus linkage map of barley based on flow-sorted chromosomes and SNP markers. <b><i>The Plant Genome</i></b> <b>4</b>(3): 238-249 [doi:10.3835/plantgenome2011.08.0023](https://doi.org/10.3835/plantgenome2011.08.0023)
+Muñoz-Amatriaín, M.<sup>![alt text](https://raw.githubusercontent.com/matthewmoscou/matthewmoscou.github.io/master/_images/yin_yang.png "Authors contributed equally"){:height="12px" width="12px"}</sup>, Moscou, M.J.<sup>![alt text](https://raw.githubusercontent.com/matthewmoscou/matthewmoscou.github.io/master/_images/yin_yang.png "Authors contributed equally"){:height="12px" width="12px"}</sup>, Bhat, P.R., Svensson, J.T., Bartoš, J., Suchánková, P., Šimková, H., Endo, T.R., Fenton, R. D., Wu, Y., Lonardi, S., Castillo, A.M., Chao, S., Cistué, L., Cuesta-Marcos, A., Forrest, K., Hayden, M.J., Hayes, P.M., Horsley, R.D., Kleinhofs, A., Moody, D., Sato, K., Vallés, M.P., Wulff, B.B.H., Muehlbauer, G.J., Doležel, J., and Close, T.J. (2011) An improved consensus linkage map of barley based on flow-sorted chromosomes and SNP markers. <b><i>The Plant Genome</i></b> <b>4</b>(3): 238-249 [doi:10.3835/plantgenome2011.08.0023](https://doi.org/10.3835/plantgenome2011.08.0023)
 
 Moscou, M.J., Lauter, N., Steffenson, B., and Wise, R.P. (2011) Quantitative and qualitative stem rust resistance factors in barley are associated with transcriptional suppression of defense regulons. <b><i>PLoS Genetics</i></b> <b>7</b>(7): e1002208 [doi:10.1371/journal.pgen.1002208](https://doi.org/10.1371/journal.pgen.1002208)
 
 Moscou, M.J., Lauter, N., Caldo, R.A., Nettleton, D., and Wise, R.P. (2011) Quantitative and temporal definition of the <i>Mla</i> transcriptional regulon during barley-powdery mildew interactions.  <b><i>Molecular Plant-Microbe Interactions</i></b> <b>24</b>(6): 694-705 [doi:10.1094/MPMI-09-10-0211](https://doi.org/10.1094/MPMI-09-10-0211)
 
 ### 2009
-Close, T.J., Bhat, P.R., Lonardi, S., Wu, Y., Rostoks, N., Ramsay, L., Druka, A., Stein, N., Svensson, J.T., Wanamaker, S., Bozdag, S., Roose, M.L., Moscou, M.J., Chao, S., Varshney, R., Szűcs, P., Sato, K., Hayes, P.M., Matthews, D.E., Kleinhofs, A., Muehlbauer, G. J., DeYoung, J., Marshall, D.F., Madishetty, K., Fenton, R.D., Condamine, P., Graner, A., Waugh, R. 2009. Development and implementation of high-throughput SNP genotyping in barley. BMC Genomics 10: 582. doi: 10.1186/1471-2164-10-582
+Close, T.J., Bhat, P.R., Lonardi, S., Wu, Y., Rostoks, N., Ramsay, L., Druka, A., Stein, N., Svensson, J.T., Wanamaker, S., Bozdag, S., Roose, M.L., Moscou, M.J., Chao, S., Varshney, R., Szűcs, P., Sato, K., Hayes, P.M., Matthews, D.E., Kleinhofs, A., Muehlbauer, G. J., DeYoung, J., Marshall, D.F., Madishetty, K., Fenton, R.D., Condamine, P., Graner, A., Waugh, R. 2009. Development and implementation of high-throughput SNP genotyping in barley. <b><i>BMC Genomics</i></b> <b>10</b>: 582 [doi:10.1186/1471-2164-10-582](https://doi.org/10.1186/1471-2164-10-582)
 
-Moscou, M.J. and Bogdanove, A. 2009. A Simple Cipher Governs DNA Recognition by TAL Effectors. Science 326: 1501. doi: 10.1126/science.1178817.
+Moscou, M.J. and Bogdanove, A. (2009) A simple cipher governs DNA recognition by TAL effectors. <b><i>Science</i></b> <b>326</b>: 1501 [doi:10.1126/science.1178817](https://doi.org/10.1126/science.1178817)
 
-Xi, L., Moscou, M.J., Meng, Y., Xu, W. Caldo, R.A., Shaver, M., Nettleton, D., Wise, R.P. 2009. Transcript-Based Cloning of HvRRP46, a Regulator of rRNA processing and R Gene-Independent Cell Death in Barley-Powdery Mildew Interactions.  Plant Cell 21: 3280-3295. doi: 10.1105/tpc.109.066167
+Xi, L., Moscou, M.J., Meng, Y., Xu, W. Caldo, R.A., Shaver, M., Nettleton, D., Wise, R.P. (2009) Transcript-based cloning of <i>HvRRP46</i>, a regulator of rRNA processing and <i>R</i> gene-independent cell death in barley-powdery mildew interactions. <b><i>Plant Cell</i></b> <b>21</b>: 3280-3295 [doi:10.1105/tpc.109.066167](https://doi.org/10.1105/tpc.109.066167)
 
-Meng, Y.*, Moscou, M.J.*, Wise, R.P. 2009. Blufensin1 negatively impacts basal defense in response to barley powdery mildew. Plant Physiology 149(1): 271-285. doi: 10.1104/pp.108.129031
+Meng, Y.<sup>![alt text](https://raw.githubusercontent.com/matthewmoscou/matthewmoscou.github.io/master/_images/yin_yang.png "Authors contributed equally"){:height="12px" width="12px"}</sup>, Moscou, M.J.<sup>![alt text](https://raw.githubusercontent.com/matthewmoscou/matthewmoscou.github.io/master/_images/yin_yang.png "Authors contributed equally"){:height="12px" width="12px"}</sup>, Wise, R.P. (2009) <i>Blufensin1</i> negatively impacts basal defense in response to barley powdery mildew. <b><i>Plant Physiology</i></b> <b>149</b>(1): 271-285 [doi:10.1104/pp.108.129031](https://doi.org/10.1104/pp.108.129031)
 
 ### 2008
-Lauter, N., Moscou, M.J., Habinger, J., Moose, S. 2008. Quantitative genetic dissection of shoot architecture traits in maize: Towards a functional genomics approach. The Plant Genome 1(2): 99-110. doi: 10.3835/plantgenome2008.06.0385
+Lauter, N., Moscou, M.J., Habinger, J., Moose, S. (2008) Quantitative genetic dissection of shoot architecture traits in maize: Towards a functional genomics approach. <b><i>The Plant Genome</i></b> <b>1</b>(2): 99-110 [doi:10.3835/plantgenome2008.06.0385](https://doi.org/10.3835/plantgenome2008.06.0385)
 
-Potokina, E., Druka, A., Luo, Z., Moscou, M., Wise, R., Waugh, R., Kearsey, M. 2008. Tissue-dependent limited pleiotropy affects gene expression in barley. Plant Journal 56(2): 287-296. doi: 10.1111/j.1365-313X.2008.03601.x
+Potokina, E., Druka, A., Luo, Z., Moscou, M., Wise, R., Waugh, R., Kearsey, M. (2008) Tissue-dependent limited pleiotropy affects gene expression in barley. <b><i>Plant Journal</i></b> <b>56</b>(2): 287-296 [doi:10.1111/j.1365-313X.2008.03601.x](https://doi.org/10.1111/j.1365-313X.2008.03601.x)
 
 ### 2007
-Wise, R.P., Moscou, M.J., Bogdanove, A.J., Whitham, S.A. 2007. Transcript Profiling in Host–Pathogen Interactions. Annual Review of Phytopathology 45: 329-369.
-
-<sup>![alt text](http://moscoulab.org/_images/yin_yang.png "Authors contributed equally")</sup>Authors contributed equally.
+Wise, R.P., Moscou, M.J., Bogdanove, A.J., Whitham, S.A. (2007) Transcript profiling in host–pathogen interactions. <b><i>Annual Review of Phytopathology</i></b> <b>45</b>: 329-369 [doi:10.1146/annurev.phyto.45.011107.143944](https://doi.org/10.1146/annurev.phyto.45.011107.143944)
 
 ## Preprints
-Clare, S., Kitcher, W., Gardiner, M., Green, P., Hubbard, A., and Moscou, M.J. (2016) Defining the genetic architecture of stripe rust resistance in the barley accession HOR 1428. <b><i>bioRxiv</i></b> 093773; doi: https://doi.org/10.1101/093773
+Clare, S., Kitcher, W., Gardiner, M., Green, P., Hubbard, A., and Moscou, M.J. (2016) Defining the genetic architecture of stripe rust resistance in the barley accession HOR 1428. <b><i>bioRxiv</i></b> 093773 [doi:10.1101/093773](https://doi.org/10.1101/093773)
 
 ## Conference Publications
 Champouret N, Moscou MJ, Bouyioukos C, Steuernagel B, Hernández-Pinzón I, Green P, Kaufman J, Olivera PD, Pretorius Z, Millet E, Steffenson BJ, Ward ER and Wulff BBH (2011) A pipeline for cloning resistance genes effective against African stem rust races from the diploid wheat relative Aegilops sharonensis In: Proc Borlaug Global Rust Initiative, June 13–19. McIntosh, R. (ed). pp. 66–74.
@@ -172,12 +172,14 @@ Markermaker: an iterative algorithm for optimization of fit between expression l
 ## Peer Review
 Manuscripts reviewed for BMC Genomics, BMC Plant Biology, Frontiers in Plant Science, Genome Biology, Journal of Experimental Botany, Molecular Genetics and Genomics, Molecular Plant Pathology, Nature Communications, Nature Genetics, Physiological and Molecular Plant Pathology, Phytopathology, Plant Cell Reports, Plant Health Progress, Plant Management Network, PLoS Genetics, PLoS ONE, Rice, Science, and Theoretical and Applied Genetics.
 
+![alt text](https://raw.githubusercontent.com/matthewmoscou/matthewmoscou.github.io/master/_images/publons.png "Publons"){:height="12px" width="12px"} [https://publons.com/a/602996/](https://publons.com/a/602996/)
+
 ## Membership in Professional Societies
-American Association for the Advancement of Science
-American Society of Plant Biologists
-British Society of Plant Pathology
-Genetics Society of America
-International Society of Molecular Plant-Microbe Interactions
+American Association for the Advancement of Science  
+American Society of Plant Biologists  
+British Society of Plant Pathology  
+Genetics Society of America  
+International Society of Molecular Plant-Microbe Interactions  
 
 
-Last updated: 2017 March 12
+Last updated: 2017 March 13
