@@ -6,7 +6,7 @@ permalink: /CV/
 
 # <b>Matthew James Moscou</b>
 
-![alt text](https://raw.githubusercontent.com/matthewmoscou/matthewmoscou.github.io/master/_images/orcid-logo.png "ORCID ID"){:height="12px" width="12px"} [http://orcid.org/0000-0003-2098-6818](http://orcid.org/0000-0003-2098-6818)
+![alt text](https://raw.githubusercontent.com/matthewmoscou/matthewmoscou.github.io/master/_images/orcid-logo.png "ORCID ID"){:height="24px" width="24px"} [http://orcid.org/0000-0003-2098-6818](http://orcid.org/0000-0003-2098-6818)
 
 ## Address
 The Sainsbury Laboratory  
@@ -172,7 +172,7 @@ Markermaker: an iterative algorithm for optimization of fit between expression l
 ## Peer Review
 Manuscripts reviewed for BMC Genomics, BMC Plant Biology, Frontiers in Plant Science, Genome Biology, Journal of Experimental Botany, Molecular Genetics and Genomics, Molecular Plant Pathology, Nature Communications, Nature Genetics, Physiological and Molecular Plant Pathology, Phytopathology, Plant Cell Reports, Plant Health Progress, Plant Management Network, PLoS Genetics, PLoS ONE, Rice, Science, and Theoretical and Applied Genetics.
 
-![alt text](https://raw.githubusercontent.com/matthewmoscou/matthewmoscou.github.io/master/_images/publons.png "Publons"){:height="12px" width="12px"} [https://publons.com/a/602996/](https://publons.com/a/602996/)
+![alt text](https://raw.githubusercontent.com/matthewmoscou/matthewmoscou.github.io/master/_images/publons.png "Publons"){:height="24px" width="24px"} [https://publons.com/a/602996/](https://publons.com/a/602996/)
 
 ## Membership in Professional Societies
 American Association for the Advancement of Science  
