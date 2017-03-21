@@ -24,7 +24,7 @@ The Moscou laboratory is located at [The Sainsbury Laboratory](www.tsl.ac.uk) in
 |Samuel Holden                | 2016          |PhD student            |
 |William Jackson              | 2015          |Research associate     |
 |Matthew Moscou               | 2010          |Group leader           |
-|                             |               |                   |
+|                             |               |                       |
 
 #### Alumni of the group include:
 
@@ -50,4 +50,4 @@ The Moscou laboratory is located at [The Sainsbury Laboratory](www.tsl.ac.uk) in
 |Amber Sturgess               | 2013    |High school student    |
 |Aizhan Zhussupova            | 2016    |Visiting scientist     |
 
-
+Last updated: 2017 March 21 
