@@ -1,12 +1,13 @@
 ---
-layout: page
+layout: nosidebar
 title: CV
 permalink: /CV/
 ---
 
-# <b>Matthew James Moscou</b>
+## <b>Matthew James Moscou</b>
 
-![alt text](https://raw.githubusercontent.com/matthewmoscou/matthewmoscou.github.io/master/_images/orcid-logo.png "ORCID ID"){:height="24px" width="24px"} [http://orcid.org/0000-0003-2098-6818](http://orcid.org/0000-0003-2098-6818)
+![alt text](../images/orcid-logo.png "ORCID ID"){:height="24px" width="24px"} [0000-0003-2098-6818](http://orcid.org/0000-0003-2098-6818)   
+![alt text](../images/rid_logo.gif "ORCID ID"){:height="15px" width="130px"} [D-5266-2011](http://www.researcherid.com/rid/D-5266-2011)
 
 ## Address
 The Sainsbury Laboratory  
@@ -89,7 +90,7 @@ The International Barley Genome Sequencing Consortium (IBSC). (2012) A physical,
 Moeller, J.R., Moscou, M.J., Bancroft, T., Skadsen, R.W., Wise, R.P., and Whitham, S.A. (2012) Differential accumulation of host mRNAs on polyribosomes during obligate pathogen-plant interactions. <b><i>Molecular BioSystems</i></b> <b>8</b>:2153-2165 [doi:10.1039/C2MB25014D](https://doi.org/10.1039/C2MB25014D)
 
 ### 2011
-Muñoz-Amatriaín, M.<sup>![alt text](https://raw.githubusercontent.com/matthewmoscou/matthewmoscou.github.io/master/_images/yin_yang.png "Authors contributed equally"){:height="12px" width="12px"}</sup>, Moscou, M.J.<sup>![alt text](https://raw.githubusercontent.com/matthewmoscou/matthewmoscou.github.io/master/_images/yin_yang.png "Authors contributed equally"){:height="12px" width="12px"}</sup>, Bhat, P.R., Svensson, J.T., Bartoš, J., Suchánková, P., Šimková, H., Endo, T.R., Fenton, R. D., Wu, Y., Lonardi, S., Castillo, A.M., Chao, S., Cistué, L., Cuesta-Marcos, A., Forrest, K., Hayden, M.J., Hayes, P.M., Horsley, R.D., Kleinhofs, A., Moody, D., Sato, K., Vallés, M.P., Wulff, B.B.H., Muehlbauer, G.J., Doležel, J., and Close, T.J. (2011) An improved consensus linkage map of barley based on flow-sorted chromosomes and SNP markers. <b><i>The Plant Genome</i></b> <b>4</b>(3): 238-249 [doi:10.3835/plantgenome2011.08.0023](https://doi.org/10.3835/plantgenome2011.08.0023)
+Muñoz-Amatriaín, M.<sup>![alt text](../images/yin_yang.png "Authors contributed equally"){:height="12px" width="12px"}</sup>, Moscou, M.J.<sup>![alt text](../images/yin_yang.png "Authors contributed equally"){:height="12px" width="12px"}</sup>, Bhat, P.R., Svensson, J.T., Bartoš, J., Suchánková, P., Šimková, H., Endo, T.R., Fenton, R. D., Wu, Y., Lonardi, S., Castillo, A.M., Chao, S., Cistué, L., Cuesta-Marcos, A., Forrest, K., Hayden, M.J., Hayes, P.M., Horsley, R.D., Kleinhofs, A., Moody, D., Sato, K., Vallés, M.P., Wulff, B.B.H., Muehlbauer, G.J., Doležel, J., and Close, T.J. (2011) An improved consensus linkage map of barley based on flow-sorted chromosomes and SNP markers. <b><i>The Plant Genome</i></b> <b>4</b>(3): 238-249 [doi:10.3835/plantgenome2011.08.0023](https://doi.org/10.3835/plantgenome2011.08.0023)
 
 Moscou, M.J., Lauter, N., Steffenson, B., and Wise, R.P. (2011) Quantitative and qualitative stem rust resistance factors in barley are associated with transcriptional suppression of defense regulons. <b><i>PLoS Genetics</i></b> <b>7</b>(7): e1002208 [doi:10.1371/journal.pgen.1002208](https://doi.org/10.1371/journal.pgen.1002208)
 
@@ -102,7 +103,7 @@ Moscou, M.J. and Bogdanove, A. (2009) A simple cipher governs DNA recognition by
 
 Xi, L., Moscou, M.J., Meng, Y., Xu, W. Caldo, R.A., Shaver, M., Nettleton, D., Wise, R.P. (2009) Transcript-based cloning of <i>HvRRP46</i>, a regulator of rRNA processing and <i>R</i> gene-independent cell death in barley-powdery mildew interactions. <b><i>Plant Cell</i></b> <b>21</b>: 3280-3295 [doi:10.1105/tpc.109.066167](https://doi.org/10.1105/tpc.109.066167)
 
-Meng, Y.<sup>![alt text](https://raw.githubusercontent.com/matthewmoscou/matthewmoscou.github.io/master/_images/yin_yang.png "Authors contributed equally"){:height="12px" width="12px"}</sup>, Moscou, M.J.<sup>![alt text](https://raw.githubusercontent.com/matthewmoscou/matthewmoscou.github.io/master/_images/yin_yang.png "Authors contributed equally"){:height="12px" width="12px"}</sup>, Wise, R.P. (2009) <i>Blufensin1</i> negatively impacts basal defense in response to barley powdery mildew. <b><i>Plant Physiology</i></b> <b>149</b>(1): 271-285 [doi:10.1104/pp.108.129031](https://doi.org/10.1104/pp.108.129031)
+Meng, Y.<sup>![alt text](../images/yin_yang.png "Authors contributed equally"){:height="12px" width="12px"}</sup>, Moscou, M.J.<sup>![alt text](../images/yin_yang.png "Authors contributed equally"){:height="12px" width="12px"}</sup>, Wise, R.P. (2009) <i>Blufensin1</i> negatively impacts basal defense in response to barley powdery mildew. <b><i>Plant Physiology</i></b> <b>149</b>(1): 271-285 [doi:10.1104/pp.108.129031](https://doi.org/10.1104/pp.108.129031)
 
 ### 2008
 Lauter, N., Moscou, M.J., Habinger, J., Moose, S. (2008) Quantitative genetic dissection of shoot architecture traits in maize: Towards a functional genomics approach. <b><i>The Plant Genome</i></b> <b>1</b>(2): 99-110 [doi:10.3835/plantgenome2008.06.0385](https://doi.org/10.3835/plantgenome2008.06.0385)
@@ -123,15 +124,15 @@ Wise, R. P., Meng, Y., Moscou, M. J., Xu, W. 2009. Regulators of innate immunity
 Moscou, M.J., Caldo, R.A., Lauter, N., Wise, R.P. 2008. Construction of coexpression networks to explore barley-powdery mildew interactions. Paper 113 in: Biology of Plant Microbe Interactions, Volume 6. M. Lorito, S. L. Woo, and F. Scala, eds. International Society for Molecular Plant-Microbe Interactions, St. Paul, MN.
 
 ## Invited Talks
-Accessing natural variation in Brachypodium distachyon: Development of the ABR6 x Bd21 RIL population. Plant and Animal Genome Conference. San Diego, CA, USA. January 17, 2017
+Accessing natural variation in <i>Brachypodium distachyon</i>: Development of the ABR6 x Bd21 RIL population. Plant and Animal Genome Conference. San Diego, CA, USA. January 17, 2017
 
 Genomics of the barley immune system. Plant and Animal Genome Conference. San Diego, CA, USA. January 14, 2017
 
 Engineering durable disease resistance. Gatsby Plant Science Network Meeting. Oxford, United Kingdom. September 9, 2016.
 
-Dual specificity at the Mla locus confers resistance to barley powdery mildew and wheat stripe rust. International Powdery Mildew Symposium. Portland, Oregon, USA. July 16, 2016.
+Dual specificity at the <i>Mla</i> locus confers resistance to barley powdery mildew and wheat stripe rust. International Powdery Mildew Symposium. Portland, Oregon, USA. July 16, 2016.
 
-The barley ‘nibblerome’: Defining the set of NB-LRR-type R genes from a diverse collection of barley. International Barley Genetics Symposium. Minneapolis, Minnesota, USA. June 28, 2016.
+The barley ‘nibblerome’: Defining the set of NB-LRR-type <i>R</i> genes from a diverse collection of barley. International Barley Genetics Symposium. Minneapolis, Minnesota, USA. June 28, 2016.
 
 Map-based cloning of host and nonhost resistance genes in barley. USDA-ARS, Cereal Crops Research Unit, North Dakota State University, Fargo, North Dakota, USA, December 1, 2015.
 
@@ -153,15 +154,15 @@ Harnessing the loci underlying host species specificity to engineer durable resi
 
 Host species specificity to stripe rust in barley colocalizes with loci conditioning resistance to powdery mildew. University of Minnesota, St. Paul, Minnesota, USA. March 28th, 2013
 
-spst1, a novel susceptibility gene in barley to wheat stripe rust. 13th International Cereal Rust and Powdery Mildew Conference. Beijing, China. August 28th-September 1st, 2012.
+<i>spst1</i>, a novel susceptibility gene in barley to wheat stripe rust. 13th International Cereal Rust and Powdery Mildew Conference. Beijing, China. August 28th-September 1st, 2012.
 
 Microscopy-based quantitative analysis of nonhost resistance in Brachypodium distachyon to cereal rusts. Monogram Conference. Aberystwyth, United Kingdom. March 26th-28th, 2012
 
 Epistatic control of powdery mildew-induced necrosis among progeny of the Steptoe x Morex doubled-haploid mapping population in barley.  John Innes Centre (JIC), Norwich, United Kingdom. March 17, 2009
 
-Natural Genetic Variation in Barley Identifies Master Regulatory Loci of Defense-Related Genes. Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Gatersleben, Germany. March 19, 2008
+Natural genetic variation in barley identifies master regulatory loci of defense-related genes. Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Gatersleben, Germany. March 19, 2008
 
-Gene-For-Gene-Mediated Transcriptome Reprogramming In Barley-Powdery Mildew Interactions. Plant and Animal Genome Conference, San Diego, California, USA. January 12, 2008.
+Gene-for-gene-mediated transcriptome reprogramming in barley-powdery mildew interactions. Plant and Animal Genome Conference, San Diego, California, USA. January 12, 2008.
 
 Bioinformatics and Computational Biology Laboratory: An interaction model for cross-departmental bioinformatics knowledge integration (http://lab.bcb.iastate.edu). New Mexico State University, Las Cruces, New Mexico, USA. November 14, 2007.
 
@@ -172,7 +173,7 @@ Markermaker: an iterative algorithm for optimization of fit between expression l
 ## Peer Review
 Manuscripts reviewed for BMC Genomics, BMC Plant Biology, Frontiers in Plant Science, Genome Biology, Journal of Experimental Botany, Molecular Genetics and Genomics, Molecular Plant Pathology, Nature Communications, Nature Genetics, Physiological and Molecular Plant Pathology, Phytopathology, Plant Cell Reports, Plant Health Progress, Plant Management Network, PLoS Genetics, PLoS ONE, Rice, Science, and Theoretical and Applied Genetics.
 
-![alt text](https://raw.githubusercontent.com/matthewmoscou/matthewmoscou.github.io/master/_images/publons.png "Publons"){:height="24px" width="24px"} [https://publons.com/a/602996/](https://publons.com/a/602996/)
+![alt text](../images/publons.png "Publons"){:height="24px" width="24px"} [https://publons.com/a/602996/](https://publons.com/a/602996/)
 
 ## Membership in Professional Societies
 American Association for the Advancement of Science  

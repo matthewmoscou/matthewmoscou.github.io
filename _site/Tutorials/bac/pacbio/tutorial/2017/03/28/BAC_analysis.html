@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+    
+    <!--
+	Ion by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<head>
+
+    <title>Analyzing, curating, and annotating bacterial artificial chromosome clones from complex genomes</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/skel.min.js"></script>
+    <script src="/js/skel-layers.min.js"></script>
+    <script src="/js/init.js"></script>
+    <noscript>
+        <link rel="stylesheet" href="/css/skel.css" />
+        <link rel="stylesheet" href="/css/style.css" />
+        <link rel="stylesheet" href="/css/style-xlarge.css" />
+    </noscript>
+</head>
+
+
+	<body id="top">
+
+        <!-- Header -->
+<header id="header" class="skel-layers-fixed">
+    <h1><a href="/" class="site-title" >Moscou Group at The Sainsbury Laboratory</a></h1>
+    <nav id="nav">
+        <ul>
+            <li><a href="/">Home</a></li>
+	    <li><a href="/Research">Research</a></li>
+	    <li><a href="/Publications">Publications</a></li>
+	    <li><a href="/Funding">Funding</a></li>
+	    <li><a href="/Blog">Blog</a></li>
+	    <li><a href="/CV">CV</a></li>
+	    <li><a href="/About">About</a></li>
+        </ul>
+    </nav>
+</header>
+
+
+        <div class="wrapper style1">
+    <article class="container">
+        <header class="major">
+            <h2 class="post-title">Analyzing, curating, and annotating bacterial artificial chromosome clones from complex genomes</h2>
+                <p class="post-meta">Mar 28, 2017</p>
+        </header>
+
+        <section class="post-content">
+            <p>In this tutorial we explore current approaches at assembling, curating, and annotating bacterial artificial chromosomes (BACs) from complex genomes. We use an example from the <i>Mla</i> locus in barley and discuss methodologies to annotate different biological information.</p>
+
+<h2 id="introduction">Introduction</h2>
+<p>Several strategies exist for generating large sequence insert libraries including cosmid (Lambda phage cos sequence-based; 37-52 kb), fosmid (bacterial F-plasmid; up to 40 kb), bacterial artificial chromosomes (BACs; 150-350 kb), and yeast artificial chromsomes (YACs; 100-1000 kb). While YACs can contain the largest inserts, they have been dropped from use due to instability. Large insert libraries are the foundation of assembling genomes including the generation of minimal tiling paths (MTPs) and the characterization of complex loci (such as loci containing R genes).</p>
+
+<p>Sequencing of large insert libraries traditional involved the subcloning of plasmids into smaller fragments with varying length, often with fragment sizes around 3 kb. Flanking sequence within the cloned fragments are subsequently sequenced using Sanger sequencing. A depth of approximately 10X was required for assembly of the BAC. Full assembly of BAC clones would be performed phred/phrap and CAP3 software that use an overlap-based approach for assembly. The quality of the assembly could be inferred by concordance of subcloned fragment size length with anchored 5’ and 3’ sequenced inserts.</p>
+
+<p>Significant gains in long read sequencing such as PacBio permits the identification of a single contig in one SMRT sequencing run. This improvement can be attributed to the generation of long reads up to 30 kb. These reads take the place of subcloned fragments in traditional sequencing, whereas small reads are used for refinement of the sequence. While the HGAP assembly pipeline is extremely powerful, by default it will assume that the genome is linear rather than circular. A pipeline exists to deal with the problem, but manual curation can also be used. Below are some examples of sequenced BAC clones from the Mla7 locus from the barley cultivar CI 16153 that involve various types of assembly outputs.</p>
+
+
+        </section>
+        
+        <footer>
+            
+            <a href="/blog/general/2017/03/27/moscou-group-blog.html" class="float-left">&larr; Previous post</a> 
+            
+        </footer>
+
+    </article>
+</div>
+
+
+	<!-- Footer -->
+<footer id="footer">
+    <div class="container">
+        <div class="row double">
+            <div class="6u">
+                <div class="row collapse-at-2">
+                    <div class="6u">
+			<section class="special">
+				<a href="http://www.tsl.ac.uk" class="image fit"><img src="http://localhost:4000/images/TSL_RGB.png" alt="" /></a>
+			</section>
+                    </div>
+                    <div class="6u">
+			    <h3><a href="http://www.tsl.ac.uk/">The Sainsbury Laboratory</a></h3>
+                        <ul class="alt">
+                            <li><a href="http://www.tsl.ac.uk/groups/moscou-group/">Moscou Group at TSL</a></li>
+                            <li><a href="http://www.tsl.ac.uk/about-tsl/">About TSL</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="6u">
+                <h2>Moscou Group at The Sainsbury Laboratory</h2>
+                <p>The Moscou group focuses on understanding immunity in the grasses. Current themes in our research include dissecting the genetic architecture of nonhost resistance, tradeoffs between biotrophs and necrotrophs, seedling versus adult plant resistance, and suppression of resistance in polyploid genomes. The group uses genetics and bioinformatics to explore biology and solve long-standing puzzles.</p>
+                <ul class="icons">
+                    <li><a href="https://twitter.com/matthewmoscou?lang=en" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+                    <li><a href="https://github.com/matthewmoscou" class="icon fa-github"><span class="label">Github</span></a></li>
+                </ul>
+            </div>
+        </div>
+        <ul class="copyright">
+            <li>&copy; Matthew Moscou. All rights reserved.</li>
+        </ul>
+    </div>
+</footer>
+
+
+    </body>
+
+</html>

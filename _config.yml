@@ -28,7 +28,7 @@ github_username:  matthewmoscou
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minima 
 gems:
   - jekyll-feed
 exclude:

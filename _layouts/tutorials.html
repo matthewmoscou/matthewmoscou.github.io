@@ -1,0 +1,23 @@
+---
+layout: nosidebar 
+---
+
+<!-- Banner -->
+{% for post in site.posts %}
+	{% if post.categories contains 'tutorial' %}
+		<div class="wrapper {% cycle 'style1', 'style2' %}">
+			<header class="major">
+				<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+				<h3> {{ post.date | date_to_long_string }} </h3>
+			</header>
+			<section class="container">
+				{{ post.excerpt }}
+			</section>
+			<section class="special">
+				<ul class="actions">
+					<li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
+				</ul>
+			</section>
+		</div>
+	{% endif %}
+{% endfor %}
