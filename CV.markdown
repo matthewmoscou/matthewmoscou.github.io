@@ -47,16 +47,16 @@ National Science Foundation, Research Experience for Teachers, Mentor (ISU, 2006
 Bioinformatics and Computational Biology Summer Institute, Lecturer/Teaching Assistant (ISU, 2006)  
 
 ## Fellowships and Awards
-Human Frontier Science Program Fellow (www.hfsp.org), Long-Term Fellowship, 2011-2014  
-Graduate Research Excellence Award, Iowa State University, 2010  
-BioVision.Nxt Fellow (http://www.biovision.org), 2009  
-James Cornette Research Fellowship in Bioinformatics and Computational Biology, 2008  
+[Human Frontier Science Program Fellow](www.hfsp.org), Long-Term Fellowship, 2011-2014  
+Graduate Research Excellence Award, [Iowa State University](www.iastate.edu), 2010  
+[BioVision.Nxt](http://www.biovision.org) Fellow, 2009  
+James Cornette Research Fellowship in Bioinformatics and Computational Biology, [Iowa State University](www.iastate.edu), 2008  
 
 ## Publications
 ### 2017
 Yu, G., Champouret, N., Steuernagel, B., Olivera, P.D., Simmons, J. Williams, C. Johnson, R., Moscou, M.J., Hernández-Pinzón, I., Green, P., Sela, H., Millet, E., Jones, J.D.G., Ward, E.R., Steffenson, B.J., and Wulff, B.B.H. (2017) Discovery and characterization of two new stem rust resistance genes in <i>Aegilops sharonensis</i>. <b><i>Theoretical and Applied Genetics</i></b> Accepted. [doi:10.1007/s00122-017-2882-8](https://doi.org/10.1007/s00122-017-2882-8)
 
-Hisano, H., Meints, B., Moscou, M.J., Cistue, L., Echávarri, B., Sato, K., and Hayes, P.M. (2017) Selection of transformation-efficient barley genotypes based on <i>TFA</i> (transformation amenability) haplotype and higher resolution mapping of the <i>TFA</i> loci <b><i>Plant Cell Reports</i></b> Accepted. [doi:10.1007/s00299-017-2107-2](https://doi.org/10.1007/s00299-017-2107-2)
+Hisano, H., Meints, B., Moscou, M.J., Cistue, L., Echávarri, B., Sato, K., and Hayes, P.M. (2017) Selection of transformation-efficient barley genotypes based on <i>TFA</i> (transformation amenability) haplotype and higher resolution mapping of the <i>TFA</i> loci <b><i>Plant Cell Reports</i></b> <b>36</b>:611–620 [doi:10.1007/s00299-017-2107-2](https://doi.org/10.1007/s00299-017-2107-2)
 
 Bettgenhaeuser, J., Corke, F.M.K., Opanowicz, M., Green, P., Hernández-Pinzón, I., Doonan, J.H., Moscou, M.J. (2017) Natural variation in <i>Brachypodium</i> links vernalization and flowering time loci as major flowering determinants. <b><i>Plant Physiology</i></b> <b>173</b>:256-268 [doi:10.1104/pp.16.00813](https://doi.org/10.1104/pp.16.00813)
 
@@ -68,7 +68,7 @@ Dawson, A.M., Ferguson, J., Gardiner, M., Green, P., Hubbard, A., and Moscou, M.
 ### 2015
 Dawson, A.M., Bettgenhaeuser, J., Gardiner, M., Green, P., Hernández-Pinzón, I., Hubbard, A., and Moscou, M.J. (2015) The development of quick, robust, quantitative phenotypic assays for describing the host-nonhost landscape to stripe rust. <b><i>Frontiers in Plant Science</i></b> <b>6</b>: 876 [doi:10.3389/fpls.2015.00876](https://doi.org/10.3389/fpls.2015.00876)
 
-Muñoz-Amatriaín, M., Lonardi, S., Luo, M. C., Madishetty, K., Svensson, J.T., Moscou, M.J., Wanamaker, S., Jiang, T., Kleinhofs, A., Muehlbauer, G.J., Wise, R., Stein, N., Ma, Y., Rodriguez, E., Kudrna, D., Bhat, P., Chao, S., Condamine, P., Heinen, S., Resnik, J., Wing, R., Witt, H., Alpert, M., Beccuti, M., Bozdag, S., Cordero, F., Mirebrahim, H., Ounit, R., Wu, Y., You, F., Zheng, J., Doležel, J., Grimwood, J., Schmutz, J., Duma, D., Altschmied, L., Blake, T., Bregitzer, P., Cooper, L., Dilbirligi, M., Falk, A., Feiz, L., Graner, A., Gustafson, P., Hayes, P.M., Lemaux, P., Mammadov, J., and Close, T.J. (2015) Sequencing of 15 622 gene-bearing BACs clarifies the gene-dense regions of the barley genome. <b><i>The Plant Journal</i></b> <b>84</b>: 216-227. [doi:10.1111/tpj.12959](https://doi.org/doi:10.1111/tpj.12959)
+Muñoz-Amatriaín, M., Lonardi, S., Luo, M. C., Madishetty, K., Svensson, J.T., Moscou, M.J., Wanamaker, S., Jiang, T., Kleinhofs, A., Muehlbauer, G.J., Wise, R., Stein, N., Ma, Y., Rodriguez, E., Kudrna, D., Bhat, P., Chao, S., Condamine, P., Heinen, S., Resnik, J., Wing, R., Witt, H., Alpert, M., Beccuti, M., Bozdag, S., Cordero, F., Mirebrahim, H., Ounit, R., Wu, Y., You, F., Zheng, J., Doležel, J., Grimwood, J., Schmutz, J., Duma, D., Altschmied, L., Blake, T., Bregitzer, P., Cooper, L., Dilbirligi, M., Falk, A., Feiz, L., Graner, A., Gustafson, P., Hayes, P.M., Lemaux, P., Mammadov, J., and Close, T.J. (2015) Sequencing of 15 622 gene-bearing BACs clarifies the gene-dense regions of the barley genome. <b><i>The Plant Journal</i></b> <b>84</b>: 216-227 [doi:10.1111/tpj.12959](https://doi.org/doi:10.1111/tpj.12959)
 
 Knight, E., Binnie, A., Draeger, T., Moscou, M., Rey, M., Sucher, J., Mehra, S., King, I., and Moore, G. (2015) Mapping the ‘breaker’ element of the gametocidal locus proximal to a block of sub-telomeric heterochromatin on the long arm of chromosome 4S<sup>sh</sup> of <i>Aegilops sharonensis</i>. <b><i>Theoretical and Applied Genetics</i></b> <b>128</b>(6):1049-1059 [doi:10.1007/s00122-015-2489-x](https://doi.org/10.1007/s00122-015-2489-x)
 
@@ -117,44 +117,48 @@ Wise, R.P., Moscou, M.J., Bogdanove, A.J., Whitham, S.A. (2007) Transcript profi
 Clare, S., Kitcher, W., Gardiner, M., Green, P., Hubbard, A., and Moscou, M.J. (2016) Defining the genetic architecture of stripe rust resistance in the barley accession HOR 1428. <b><i>bioRxiv</i></b> 093773 [doi:10.1101/093773](https://doi.org/10.1101/093773)
 
 ## Conference Publications
-Champouret N, Moscou MJ, Bouyioukos C, Steuernagel B, Hernández-Pinzón I, Green P, Kaufman J, Olivera PD, Pretorius Z, Millet E, Steffenson BJ, Ward ER and Wulff BBH (2011) A pipeline for cloning resistance genes effective against African stem rust races from the diploid wheat relative Aegilops sharonensis In: Proc Borlaug Global Rust Initiative, June 13–19. McIntosh, R. (ed). pp. 66–74.
+Champouret N, Moscou MJ, Bouyioukos C, Steuernagel B, Hernández-Pinzón I, Green P, Kaufman J, Olivera PD, Pretorius Z, Millet E, Steffenson BJ, Ward ER and Wulff BBH (2011) A pipeline for cloning resistance genes effective against African stem rust races from the diploid wheat relative Aegilops sharonensis In: Proc Borlaug Global Rust Initiative, June 13–19. McIntosh, R. (ed). pp. 66–74
 
-Wise, R. P., Meng, Y., Moscou, M. J., Xu, W. 2009. Regulators of innate immunity in cereal-fungal interactions. In Biology of Plant Microbe Interactions, Volume 7. International Society for Molecular Plant-Microbe Interactions, St. Paul, MN.
+Wise, R. P., Meng, Y., Moscou, M. J., Xu, W. 2009. Regulators of innate immunity in cereal-fungal interactions. In Biology of Plant Microbe Interactions, Volume 7. International Society for Molecular Plant-Microbe Interactions, St. Paul, MN
 
-Moscou, M.J., Caldo, R.A., Lauter, N., Wise, R.P. 2008. Construction of coexpression networks to explore barley-powdery mildew interactions. Paper 113 in: Biology of Plant Microbe Interactions, Volume 6. M. Lorito, S. L. Woo, and F. Scala, eds. International Society for Molecular Plant-Microbe Interactions, St. Paul, MN.
+Moscou, M.J., Caldo, R.A., Lauter, N., Wise, R.P. 2008. Construction of coexpression networks to explore barley-powdery mildew interactions. Paper 113 in: Biology of Plant Microbe Interactions, Volume 6. M. Lorito, S. L. Woo, and F. Scala, eds. International Society for Molecular Plant-Microbe Interactions, St. Paul, MN
 
 ## Invited Talks
+The process of discovery: How a conversation at a conference led to the development of a research program. Plant Sciences Graduate Student Symposium. Saskatoon, Saskatchewan, Canada. April 1, 2017
+
+Dissecting the genetic architecture of nonhost resistance to stripe rust. University of Saskatchewan. Saskatoon, Saskatchewan, Canada. March 30, 2017
+
 Accessing natural variation in <i>Brachypodium distachyon</i>: Development of the ABR6 x Bd21 RIL population. Plant and Animal Genome Conference. San Diego, CA, USA. January 17, 2017
 
 Genomics of the barley immune system. Plant and Animal Genome Conference. San Diego, CA, USA. January 14, 2017
 
-Engineering durable disease resistance. Gatsby Plant Science Network Meeting. Oxford, United Kingdom. September 9, 2016.
+Engineering durable disease resistance. Gatsby Plant Science Network Meeting. Oxford, United Kingdom. September 9, 2016
 
-Dual specificity at the <i>Mla</i> locus confers resistance to barley powdery mildew and wheat stripe rust. International Powdery Mildew Symposium. Portland, Oregon, USA. July 16, 2016.
+Dual specificity at the <i>Mla</i> locus confers resistance to barley powdery mildew and wheat stripe rust. International Powdery Mildew Symposium. Portland, Oregon, USA. July 16, 2016
 
-The barley ‘nibblerome’: Defining the set of NB-LRR-type <i>R</i> genes from a diverse collection of barley. International Barley Genetics Symposium. Minneapolis, Minnesota, USA. June 28, 2016.
+The barley ‘nibblerome’: Defining the set of NB-LRR-type <i>R</i> genes from a diverse collection of barley. International Barley Genetics Symposium. Minneapolis, Minnesota, USA. June 28, 2016
 
-Map-based cloning of host and nonhost resistance genes in barley. USDA-ARS, Cereal Crops Research Unit, North Dakota State University, Fargo, North Dakota, USA, December 1, 2015.
+Map-based cloning of host and nonhost resistance genes in barley. USDA-ARS, Cereal Crops Research Unit, North Dakota State University, Fargo, North Dakota, USA, December 1, 2015
 
-Dissecting the genetic architecture of nonhost resistance to stripe rust. Plant Biotic Stresses & Resistance Mechanisms II, Vienna, Austria. July 3, 2015.
+Dissecting the genetic architecture of nonhost resistance to stripe rust. Plant Biotic Stresses & Resistance Mechanisms II, Vienna, Austria. July 3, 2015
 
-Dissecting the basis of host species specificity and nonhost resistance to wheat stripe rust. Heinrich-Heine-Universität Düsseldorf, Düsseldorf, Germany. November 24, 2014.
+Dissecting the basis of host species specificity and nonhost resistance to wheat stripe rust. Heinrich-Heine-Universität Düsseldorf, Düsseldorf, Germany. November 24, 2014
 
-Nonhost resistance as a potential source for controlling wheat rust disease. International Congress on Molecular Plant-Microbe Interactions, Rhodes, Greece. July 10, 2014.
+Nonhost resistance as a potential source for controlling wheat rust disease. International Congress on Molecular Plant-Microbe Interactions, Rhodes, Greece. July 10, 2014
 
-Harnessing the loci that determine the inappropriate host status of barley to engineer durable resistance to wheat stripe rust. North American Barley Researcher Workshop, Minneapolis, Minnesota, USA. July 2, 2014.
+Harnessing the loci that determine the inappropriate host status of barley to engineer durable resistance to wheat stripe rust. North American Barley Researcher Workshop, Minneapolis, Minnesota, USA. July 2, 2014
 
-Why does wheat stripe rust not infect barley? Plant and Animal Genome Conference, San Diego, California, USA. January 11, 2014.
+Why does wheat stripe rust not infect barley? Plant and Animal Genome Conference, San Diego, California, USA. January 11, 2014
 
-Deciphering the genetic architecture of host species specificity and nonhost resistance to wheat stripe rust. Oregon State University, Corvallis, Oregon, USA. January 8, 2014.
+Deciphering the genetic architecture of host species specificity and nonhost resistance to wheat stripe rust. Oregon State University, Corvallis, Oregon, USA. January 8, 2014
 
-The genetic architecture underlying host species specificity of stripe rust. Washington State University, Pullman, Washington, USA. January 6, 2014.
+The genetic architecture underlying host species specificity of stripe rust. Washington State University, Pullman, Washington, USA. January 6, 2014
 
-Harnessing the loci underlying host species specificity to engineer durable resistance to wheat stripe rust. Keystone Symposia: Plant Immunity: Pathways and Translation. Big Sky, Montana, USA. April 7th-April 12th, 2013.
+Harnessing the loci underlying host species specificity to engineer durable resistance to wheat stripe rust. Keystone Symposia: Plant Immunity: Pathways and Translation. Big Sky, Montana, USA. April 7th-April 12th, 2013
 
 Host species specificity to stripe rust in barley colocalizes with loci conditioning resistance to powdery mildew. University of Minnesota, St. Paul, Minnesota, USA. March 28th, 2013
 
-<i>spst1</i>, a novel susceptibility gene in barley to wheat stripe rust. 13th International Cereal Rust and Powdery Mildew Conference. Beijing, China. August 28th-September 1st, 2012.
+<i>spst1</i>, a novel susceptibility gene in barley to wheat stripe rust. 13th International Cereal Rust and Powdery Mildew Conference. Beijing, China. August 28th-September 1st, 2012
 
 Microscopy-based quantitative analysis of nonhost resistance in Brachypodium distachyon to cereal rusts. Monogram Conference. Aberystwyth, United Kingdom. March 26th-28th, 2012
 
@@ -162,13 +166,13 @@ Epistatic control of powdery mildew-induced necrosis among progeny of the Stepto
 
 Natural genetic variation in barley identifies master regulatory loci of defense-related genes. Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Gatersleben, Germany. March 19, 2008
 
-Gene-for-gene-mediated transcriptome reprogramming in barley-powdery mildew interactions. Plant and Animal Genome Conference, San Diego, California, USA. January 12, 2008.
+Gene-for-gene-mediated transcriptome reprogramming in barley-powdery mildew interactions. Plant and Animal Genome Conference, San Diego, California, USA. January 12, 2008
 
-Bioinformatics and Computational Biology Laboratory: An interaction model for cross-departmental bioinformatics knowledge integration (http://lab.bcb.iastate.edu). New Mexico State University, Las Cruces, New Mexico, USA. November 14, 2007.
+Bioinformatics and Computational Biology Laboratory: An interaction model for cross-departmental bioinformatics knowledge integration (http://lab.bcb.iastate.edu). New Mexico State University, Las Cruces, New Mexico, USA. November 14, 2007
 
 PLEXdb: Plant and pathogen expression database and tools for comparative and functional genomics analysis. COST Action 858, INRA, Bordeaux, France. November 20, 2006
 
-Markermaker: an iterative algorithm for optimization of fit between expression level polymorphisms and genetic marker datasets. Sixth Annual Joint Bioinformatics Symposium, Iowa State University, Ames, Iowa, USA. July 14, 2006.
+Markermaker: an iterative algorithm for optimization of fit between expression level polymorphisms and genetic marker datasets. Sixth Annual Joint Bioinformatics Symposium, Iowa State University, Ames, Iowa, USA. July 14, 2006
 
 ## Peer Review
 Manuscripts reviewed for BMC Genomics, BMC Plant Biology, Frontiers in Plant Science, Genome Biology, Journal of Experimental Botany, Molecular Genetics and Genomics, Molecular Plant Pathology, Nature Communications, Nature Genetics, Physiological and Molecular Plant Pathology, Phytopathology, Plant Cell Reports, Plant Health Progress, Plant Management Network, PLoS Genetics, PLoS ONE, Rice, Science, and Theoretical and Applied Genetics.
@@ -183,4 +187,4 @@ Genetics Society of America
 International Society of Molecular Plant-Microbe Interactions  
 
 
-Last updated: 2017 March 21 
+Last updated: 2017 April 3 

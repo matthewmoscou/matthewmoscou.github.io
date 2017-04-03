@@ -7,7 +7,7 @@ permalink: /Publications/
 ## 2017
 Yu, G., Champouret, N., Steuernagel, B., Olivera, P.D., Simmons, J. Williams, C. Johnson, R., Moscou, M.J., Hernández-Pinzón, I., Green, P., Sela, H., Millet, E., Jones, J.D.G., Ward, E.R., Steffenson, B.J., and Wulff, B.B.H. (2017) Discovery and characterization of two new stem rust resistance genes in <i>Aegilops sharonensis</i>. <b><i>Theoretical and Applied Genetics</i></b> Accepted. [doi:10.1007/s00122-017-2882-8](https://doi.org/10.1007/s00122-017-2882-8)
 
-Hisano, H., Meints, B., Moscou, M.J., Cistue, L., Echávarri, B., Sato, K., and Hayes, P.M. (2017) Selection of transformation-efficient barley genotypes based on <i>TFA</i> (transformation amenability) haplotype and higher resolution mapping of the <i>TFA</i> loci <b><i>Plant Cell Reports</i></b> Accepted. [doi:10.1007/s00299-017-2107-2](https://doi.org/10.1007/s00299-017-2107-2)
+Hisano, H., Meints, B., Moscou, M.J., Cistue, L., Echávarri, B., Sato, K., and Hayes, P.M. (2017) Selection of transformation-efficient barley genotypes based on <i>TFA</i> (transformation amenability) haplotype and higher resolution mapping of the <i>TFA</i> loci <b><i>Plant Cell Reports</i></b> <b>36</b>:611–620 [doi:10.1007/s00299-017-2107-2](https://doi.org/10.1007/s00299-017-2107-2)
 
 Bettgenhaeuser, J., Corke, F.M.K., Opanowicz, M., Green, P., Hernández-Pinzón, I., Doonan, J.H., Moscou, M.J. (2017) Natural variation in <i>Brachypodium</i> links vernalization and flowering time loci as major flowering determinants. <b><i>Plant Physiology</i></b> <b>173</b>:256-268 [doi:10.1104/pp.16.00813](https://doi.org/10.1104/pp.16.00813)
 
@@ -65,4 +65,4 @@ Potokina, E., Druka, A., Luo, Z., Moscou, M., Wise, R., Waugh, R., Kearsey, M. (
 Wise, R.P., Moscou, M.J., Bogdanove, A.J., Whitham, S.A. (2007) Transcript profiling in host–pathogen interactions. <b><i>Annual Review of Phytopathology</i></b> <b>45</b>: 329-369 [doi:10.1146/annurev.phyto.45.011107.143944](https://doi.org/10.1146/annurev.phyto.45.011107.143944)
 
 
-Last updated: 2017 March 25
+Last updated: 2017 April 3

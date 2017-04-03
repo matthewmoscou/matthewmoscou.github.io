@@ -32,7 +32,7 @@ permalink: /Funding/
 			<section class="leftadjust">
 				<h2>Biotechnology and Biological Sciences Research Council</h2>
 				<p>BBSRC promotes and supports high-quality basic, strategic and applied research and related postgraduate training relating to the understanding and exploitation of biological systems.</p>
-				<p>Funding from BBSRC currently contributes to several projects within the Moscou group.</p>
+				<p>Funding from BBSRC currently contributes to several projects within the Moscou group through the Institutional Strategic Programme (BB/J004553/1), including several PhD studentships through the Doctoral Training Programme (BB/F017294/1).</p>
 			</section>
 		</div>
 	</div>
@@ -49,7 +49,7 @@ permalink: /Funding/
 			<section class="leftadjust">
 				<h2>Perry Foundation</h2>
 				<p>Perry Foundation is a registered UK Charity with the objectives of promoting education and research connected with agriculture or food production for the benefit of the public.</p>
-				<p>Funding from the Perry Foundation currently supports a part of Helen Brabham's PhD.</p>
+				<p>Funding from the Perry Foundation currently supports a part of Helen Brabham's PhD funding.</p>
 			</section>
 		</div>
 	</div>
