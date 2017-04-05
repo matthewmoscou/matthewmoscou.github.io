@@ -1,7 +1,7 @@
 ---
-layout: about
-title: About
-permalink: /about/
+layout: group
+title: Group
+permalink: /Group/
 ---
 
 ## Current members of the group include:
