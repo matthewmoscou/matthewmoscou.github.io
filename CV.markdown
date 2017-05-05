@@ -124,6 +124,8 @@ Wise, R. P., Meng, Y., Moscou, M. J., Xu, W. 2009. Regulators of innate immunity
 Moscou, M.J., Caldo, R.A., Lauter, N., Wise, R.P. 2008. Construction of coexpression networks to explore barley-powdery mildew interactions. Paper 113 in: Biology of Plant Microbe Interactions, Volume 6. M. Lorito, S. L. Woo, and F. Scala, eds. International Society for Molecular Plant-Microbe Interactions, St. Paul, MN
 
 ## Invited Talks
+Dissecting the genetic architecture of nonhost resistance to stripe rust. Institut de Recherche pour le Développement. Montpellier, France. April 21, 2017
+
 The process of discovery: How a conversation at a conference led to the development of a research program. Plant Sciences Graduate Student Symposium. Saskatoon, Saskatchewan, Canada. April 1, 2017
 
 Dissecting the genetic architecture of nonhost resistance to stripe rust. University of Saskatchewan. Saskatoon, Saskatchewan, Canada. March 30, 2017
