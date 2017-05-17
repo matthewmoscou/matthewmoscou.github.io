@@ -14,20 +14,10 @@ layout: default
 		<div class="row">
 			<div class="4u">
 				<section>
-					<h3>Recent blog posts</h3>
+					<h3>Recent Comics</h3>
 					<ul class="alt">
 						{% for post in site.posts limit:5 %}
-							{% if post.categories contains 'blog' %}
-								<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date_to_long_string }} {{ post.title }}</a></li>
-							{% endif %}
-						{% endfor %}
-					</ul>
-				</section>
-				<section>
-					<h3>Recent tutorials</h3>
-					<ul class="alt">
-						{% for post in site.posts limit:5 %}
-							{% if post.categories contains 'tutorial' %}
+							{% if post.categories contains 'Comics' %}
 								<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date_to_long_string }} {{ post.title }}</a></li>
 							{% endif %}
 						{% endfor %}
@@ -36,8 +26,8 @@ layout: default
 			</div>
 			<div class="8u skel-cell-important">
 				<section>
-					{% for post in site.posts limit:2 %}
-						{% if post.categories contains 'blog' %}
+					{% for post in site.posts limit:1 %}
+						{% if post.categories contains 'Comics' %}
 						<header class="major">
 							<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 							<h3> {{ post.date | date_to_long_string }} </h3>
@@ -50,7 +40,6 @@ layout: default
 								<li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
 							</ul>
 						</section>
-						<hr>
 						{% endif %}
 					{% endfor %}
 				</section>

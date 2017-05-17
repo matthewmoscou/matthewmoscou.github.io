@@ -1,0 +1,24 @@
+---
+layout: post
+category: Comics
+title: "Magpie Science"
+date: 2017-05-17 11:00 -0000
+categories: Comics
+---
+
+<section id="special">
+<div align="center">
+<img src="/assets/2017-05-17-shiny/QKcomic_0001_shiny_r.jpg" title="Never get between a magpie and a novel gene editing technology..." alt="Shiny" srcset="/assets/2017-05-17-shiny/QKcomic_0001_shiny_r.jpg"/>
+</div>
+</section>
+
+<section id="references">
+<div align="left">
+<h3>References</h3>
+<li>Bernardo, R. <i>Theor Appl Genet</i> (2016) <b>129</b>: 2323. <a href="https://doi.org/10.1007/s00122-016-2772-5">doi:10.1007/s00122-016-2772-5</a></li>
+   
+<li>Lander, E. S. <i>Cell</i> (2016) <b>164</b>:18-28. <a href="https://doi.org/10.1016/j.cell.2015.12.041">doi:10.1016/j.cell.2015.12.041</a></li>
+<li>Hanage, W. P. <i>Nature</i> <b>512</b>:247-8. <a href="https://doi.org/10.1038/512247a">doi:10.1038/512247a</a></li>
+<br>
+</div>
+</section>
