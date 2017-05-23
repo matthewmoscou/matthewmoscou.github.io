@@ -107,11 +107,16 @@ muscle -in At.TRX.domain.MUSCLE2_34_217_curated.fa -clwstrict -out At.TRX.domain
 
 An example of how the tree is incorrect is seen below.
 
-![alt text](At.TRX.domain.MUSCLE2.phylogeny.png "TRX phylogenetic tree without curation")
+![alt text](/assets/2017-05-21-phylogenetic_analysis/At.TRX.domain.MUSCLE2.phylogeny.png "TRX phylogenetic tree without curation")
+
+<img src="/assets/2017-05-21-phylogenetic_analysis/At.TRX.domain.MUSCLE2.phylogeny.png" title="TRX phylogenetic tree without curation" alt="tree2" srcset="/assets/2017-05-21-phylogenetic_analysis/At.TRX.domain.MUSCLE2.phylogeny.png"/>
+
 
 After removal of divergent sequence, the tree takes its correct structure.
 
-![alt text](At.TRX.domain.MUSCLE3.phylogeny.png "TRX phylogenetic tree with curation")
+![alt text](/assets/2017-05-21-phylogenetic_analysis/At.TRX.domain.MUSCLE3.phylogeny.png "TRX phylogenetic tree with curation")
+
+<img src="/assets/2017-05-21-phylogenetic_analysis/At.TRX.domain.MUSCLE3.phylogeny.png" title="TRX phylogenetic tree with curation" alt="tree2" srcset="/assets/2017-05-21-phylogenetic_analysis/At.TRX.domain.MUSCLE3.phylogeny.png"/>
 
 ## Phylogenetic tree construction of thioredoxin domains from *Arabidopsis thaliana*
 Several approaches and software are available for phylogenetic tree construction including but not limited to parsimony, neighbor-joining, and maximum likelihood. Here, we demonstrate how to generate a maximum likelihood phylogenetic tree using [RAxML](https://github.com/stamatak/standard-RAxML). First, we generate the phylogenetic tree. In the first instance, we will use the automatic selection of amino acid selection model (PROTGAMMAAUTO) and use four processors `-T 4`.
