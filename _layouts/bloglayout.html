@@ -37,7 +37,7 @@ layout: default
 			<div class="8u skel-cell-important">
 				<section>
 					{% for post in site.posts limit:2 %}
-						{% if post.categories contains 'blog' %}
+						{% if post.categories contains 'tutorial' %}
 						<header class="major">
 							<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 							<h3> {{ post.date | date_to_long_string }} </h3>
