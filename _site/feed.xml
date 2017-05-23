@@ -1,5 +1,212 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-17T15:21:37+01:00</updated><id>http://localhost:4000/</id><title type="html">Moscou Group at The Sainsbury Laboratory</title><subtitle>The Moscou group focuses on understanding immunity in the grasses. Current themes in our research include dissecting the genetic architecture of nonhost resistance, tradeoffs between biotrophs and necrotrophs, seedling versus adult plant resistance, and suppression of resistance in polyploid genomes. The group uses genetics and bioinformatics to explore biology and solve long-standing puzzles.
-</subtitle><entry><title type="html">Magpie Science</title><link href="http://localhost:4000/comics/2017/05/17/shiny.html" rel="alternate" type="text/html" title="Magpie Science" /><published>2017-05-17T12:00:00+01:00</published><updated>2017-05-17T12:00:00+01:00</updated><id>http://localhost:4000/comics/2017/05/17/shiny</id><content type="html" xml:base="http://localhost:4000/comics/2017/05/17/shiny.html">&lt;section id=&quot;special&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-23T06:31:00+01:00</updated><id>http://localhost:4000/</id><title type="html">Moscou Group at The Sainsbury Laboratory</title><subtitle>The Moscou group focuses on understanding immunity in the grasses. Current themes in our research include dissecting the genetic architecture of nonhost resistance, tradeoffs between biotrophs and necrotrophs, seedling versus adult plant resistance, and suppression of resistance in polyploid genomes. The group uses genetics and bioinformatics to explore biology and solve long-standing puzzles.
+</subtitle><entry><title type="html">Phylogenetic analysis using RAxML</title><link href="http://localhost:4000/tutorials/general/phylogenetics/tutorial/2017/05/21/phylogenetic_analysis.html" rel="alternate" type="text/html" title="Phylogenetic analysis using RAxML" /><published>2017-05-21T13:00:00+01:00</published><updated>2017-05-21T13:00:00+01:00</updated><id>http://localhost:4000/tutorials/general/phylogenetics/tutorial/2017/05/21/phylogenetic_analysis</id><content type="html" xml:base="http://localhost:4000/tutorials/general/phylogenetics/tutorial/2017/05/21/phylogenetic_analysis.html">&lt;p&gt;This tutorial describes the general approach of phylogenetic tree construction using RAxML, focusing on a example using the thioredoxin gene family in &lt;em&gt;Arabidopsis thaliana&lt;/em&gt;. The analysis will incorporate the use of domain identification, domain extraction, multiple sequence alignment, phylogenetic tree construction, bootstrap analysis, and biological interpretation.&lt;/p&gt;
+
+&lt;p&gt;Examples files used in this analysis can be found on Github in the examples folder of &lt;a href=&quot;https://github.com/matthewmoscou/QKdomain&quot;&gt;QKdomain&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;identification-of-thioredoxins-in-arabidopsis-thaliana&quot;&gt;Identification of thioredoxins in &lt;em&gt;Arabidopsis thaliana&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;The thioredoxins of &lt;em&gt;Arabidopsis thaliana&lt;/em&gt; were identified by identifying all proteins with the Pfam domain PF00085. Next, InterProScan was used to evaluate these sequences. The resulting output in tab-separated format (tsv) is used by the &lt;a href=&quot;https://github.com/matthewmoscou/QKdomain&quot;&gt;QKdomain&lt;/a&gt; (v1.0) suite of scripts to identify the diversity of domains. Initially, &lt;code class=&quot;highlighter-rouge&quot;&gt;QKdomain_preprocess.py&lt;/code&gt; is used to assess the domain content present in the protein data set.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python QKdomain_preprocess.py examples/Athaliana_167_TAIR10.protein.TRX.fa.tsv At_TRX_preprocess.txt
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The output file &lt;code class=&quot;highlighter-rouge&quot;&gt;At_TRX_preprocess.txt&lt;/code&gt; is used to manually curate identifiers to generate redundant abbreviations for the next component of the analysis. Below is an example of a set of abbreviations generated from &lt;code class=&quot;highlighter-rouge&quot;&gt;At_TRX_preprocess.txt&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Coil	CC
+PF00085	TRX
+PF00462	GLRX
+PF00515	TPR
+PF00789	UBX
+...
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Next, we identify the domain structure of proteins in the data set.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python QKdomain_process.py examples/Athaliana_167_TAIR10.protein.TRX.fa examples/Athaliana_167_TAIR10.protein.TRX.fa.tsv examples/At_TRX_abbreviations.txt At_TRX_process.txt
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The output will be structured with the first column the protein identifier and the second column the protein domain structure.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;AT1G35620.1	TRX-TRX
+AT3G56420.1	TRX
+AT5G66410.1	TRX
+AT1G14570.1	UBA-TRX-UIM-UBX-UBI
+AT3G53220.1	TRX
+AT3G15360.1	TRX
+AT2G32920.1	TRX-TRX-TRX
+AT1G08570.1	CC-TRX
+...
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;To export all thioredoxin (TRX) domains in the set of proteins, use the following command:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python QKdomain_process.py -d TRX examples/Athaliana_167_TAIR10.protein.TRX.fa examples/Athaliana_167_TAIR10.protein.TRX.fa.tsv examples/At_TRX_abbreviations.txt At_TRX_process.txt At.TRX.domain.fa
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The file &lt;code class=&quot;highlighter-rouge&quot;&gt;At.TRX.domain.fa&lt;/code&gt; will contain individual non-overlapping domains delineated by InterProScan. Overlapping domains would be integrated into a single domain and would require manual curation in a multiple sequence alignment to correct. The protein identifier is modified to include the start and end positions selected and the domain structure of the original protein.&lt;/p&gt;
+
+&lt;h2 id=&quot;multiple-sequence-alignment-of-thioredoxin-domains-from-arabidopsis-thaliana&quot;&gt;Multiple sequence alignment of thioredoxin domains from &lt;em&gt;Arabidopsis thaliana&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;A multiple sequence alignment is critical for the development of an accurate phylogenetic tree. Several forms of software are available, and each has different strengths according the the size and complexity of the data set under investigation. A summary table of commonly used software is listed below (&lt;strong&gt;Table 1&lt;/strong&gt;). A considerable number of additional options are available and this list should just be considering a starting point. In addition, parallel versions exist for several software, such as ClustalOmega and MUSCLE.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Table 1.&lt;/strong&gt; Multiple sequence alignment software&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Software&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Scalability&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Complexity&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Website&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ClustalW&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Small to Medium&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Diverse sequences (more conservative)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;http://www.clustal.org/clustal2/&quot;&gt;http://www.clustal.org/clustal2/&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ClustalOmega&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Large&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Diverse sequences (more relaxed)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;http://www.clustal.org/omega/&quot;&gt;http://www.clustal.org/omega/&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;MAFFT&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Medium to Large&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;http://mafft.cbrc.jp/alignment/software/&quot;&gt;http://mafft.cbrc.jp/alignment/software/&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;MUSCLE&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Medium&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Diverse sequences (more conservative)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;http://www.drive5.com/muscle/&quot;&gt;http://www.drive5.com/muscle/&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;PRANK&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Medium&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Low complexity (highly related sequences)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;http://wasabiapp.org/software/prank/&quot;&gt;http://wasabiapp.org/software/prank/&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The thioredoxins of &lt;em&gt;Arabidopsis thaliana&lt;/em&gt; are fairly diverse, therefore MUSCLE was selected for multiple sequence alignment. The first step is to identify a conserved region in the thioredoxin domain and removal of sequences unrelated to the thioredoxin domain and/or without conservation in this gene family.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;muscle -in At.TRX.domain.fa -clwstrict -out At.TRX.domain.MUSCLE1.aln
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A clear cutoff can be identified between positions 382 to 581 aa in the alignment. Next, we realign the extracted sequence, which can improve the assembly once divergent sequences are removed.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;muscle -in At.TRX.domain.MUSCLE1_382_581.fa -clwstrict -out At.TRX.domain.MUSCLE2.aln
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;While the first alignment and selection will remove the majority of outlier sequence, it is important to check and remove any additional sequence. In this case, an extraction was made between the positions 34 and 217 aa in the multiple sequence alignment.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;muscle -in At.TRX.domain.MUSCLE2_34_217.fa -clwstrict -out At.TRX.domain.MUSCLE3.aln
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The last step involves an iterative process of removing sequences that are highly divergent from the other sequences in the alignment. This is performed by (1) performing the multiple sequence alignment, (2) construction of a neighbor joining tree, and (3) identification of genes that are highly divergent based on the tree structure. The details of the removed sequences are detailed below (&lt;strong&gt;Table 2&lt;/strong&gt;).&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;muscle -in At.TRX.domain.MUSCLE2_34_217_curated.fa -clwstrict -out At.TRX.domain.MUSCLEf.aln
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Table 2.&lt;/strong&gt; Manual curation of sequences in multiple sequence alignment based on aberrant phylogenetic inference.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Iteration&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Gene&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;AT1G20225.1_8_210&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;AT1G35620.1_180_327&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;AT4G04950.1_153_256&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;AT1G60420.1_188_299&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;AT3G54960.2_208_518&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;AT4G14250.1_500_624&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;AT4G14250.2_105_191&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;An example of how the tree is incorrect is seen below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;At.TRX.domain.MUSCLE2.phylogeny.png&quot; alt=&quot;alt text&quot; title=&quot;TRX phylogenetic tree without curation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After removal of divergent sequence, the tree takes its correct structure.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;At.TRX.domain.MUSCLE3.phylogeny.png&quot; alt=&quot;alt text&quot; title=&quot;TRX phylogenetic tree with curation&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;phylogenetic-tree-construction-of-thioredoxin-domains-from-arabidopsis-thaliana&quot;&gt;Phylogenetic tree construction of thioredoxin domains from &lt;em&gt;Arabidopsis thaliana&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;Several approaches and software are available for phylogenetic tree construction including but not limited to parsimony, neighbor-joining, and maximum likelihood. Here, we demonstrate how to generate a maximum likelihood phylogenetic tree using &lt;a href=&quot;https://github.com/stamatak/standard-RAxML&quot;&gt;RAxML&lt;/a&gt;. First, we generate the phylogenetic tree. In the first instance, we will use the automatic selection of amino acid selection model (PROTGAMMAAUTO) and use four processors &lt;code class=&quot;highlighter-rouge&quot;&gt;-T 4&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;raxml -s At.TRX.domain.MUSCLEf.phy -n At.TRX.domain.PROTGAMMAAUTO -m PROTGAMMAAUTO -p 84381764921 -T 4
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The output will initially describe the set of sequences that are identical such as:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;IMPORTANT WARNING: Sequences AT1G14570.1_163_295 and AT1G14570.3_142_274 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AT2G15570.2_46_174 and AT2G15570.1_46_173 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AT1G07700.3_65_214 and AT1G07700.1_52_201 are exactly identical
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;It will then perform automatic protein model assignment until it identifies an appropriate model. In this case, WAG. The final output will be in the file &lt;code class=&quot;highlighter-rouge&quot;&gt;RAxML_result.At.TRX.domain.PROTGAMMAAUTO&lt;/code&gt;. The run time was 443 seconds using four processors on a relatively new MacBook Pro. This is important, as the length of the alignment and number of sequences will have a tremendous impact on the time required for phylogenetic tree construction. We routinely use large multicore servers to handle large data sets.&lt;/p&gt;
+
+&lt;p&gt;Next, we need to generate bootstraps to infer relationships of genes within the tree. This will take a considerable amount of time, but we can test for convergence as we perform blocks of bootstrap analyses.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;raxml -s At.TRX.domain.MUSCLEf.phy -n At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1 -N 100 -m PROTGAMMAWAG -p 427482396541 -T 4
+raxml -s At.TRX.domain.MUSCLEf.phy -n At.TRX.domain.PROTGAMMAAUTO_bootstrap_r2 -N 100 -m PROTGAMMAWAG -p 9567154133 -T 4
+cat RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r&lt;span class=&quot;k&quot;&gt;*&lt;/span&gt; &amp;gt; allBootstraps
+raxml -z allBootstraps -m PROTGAMMAWAG -I autoMRE -n TEST -p 3824142315 -T 4
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;On my machine, it tooks 5.03 hours to run the first 100 bootstraps. For testing this tutorial on your own computer, I would suggest preparing a small data set in the first instance. After 10 hours of running, the convergence test was met after 200 bootstraps. To incorporate bootstraps into the maxmimum likelihood tree, we used the following command:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;raxml -f b -z allBootstraps -t RAxML_result.At.TRX.domain.PROTGAMMAAUTO -m PROTGAMMAWAG -n At.TRX.domain.PROTGAMMAWAGandBOOTSTRAP.txt
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The file &lt;code class=&quot;highlighter-rouge&quot;&gt;At.TRX.domain.PROTGAMMAWAGandBOOTSTRAP.txt&lt;/code&gt; can be directly used with &lt;a href=&quot;http://itol.embl.de&quot;&gt;EMBL iTOL&lt;/a&gt; for visualization.&lt;/p&gt;</content><author><name></name></author><category term="tutorial" /><summary type="html">This tutorial describes the general approach of phylogenetic tree construction using RAxML, focusing on a example using the thioredoxin gene family in Arabidopsis thaliana. The analysis will incorporate the use of domain identification, domain extraction, multiple sequence alignment, phylogenetic tree construction, bootstrap analysis, and biological interpretation.</summary></entry><entry><title type="html">Magpie Science</title><link href="http://localhost:4000/comics/2017/05/17/shiny.html" rel="alternate" type="text/html" title="Magpie Science" /><published>2017-05-17T12:00:00+01:00</published><updated>2017-05-17T12:00:00+01:00</updated><id>http://localhost:4000/comics/2017/05/17/shiny</id><content type="html" xml:base="http://localhost:4000/comics/2017/05/17/shiny.html">&lt;section id=&quot;special&quot;&gt;
 &lt;div align=&quot;center&quot;&gt;
 &lt;img src=&quot;/assets/2017-05-17-shiny/QKcomic_0001_shiny_r.jpg&quot; title=&quot;Never get between a magpie and a novel gene editing technology...&quot; alt=&quot;Shiny&quot; srcset=&quot;/assets/2017-05-17-shiny/QKcomic_0001_shiny_r.jpg&quot; /&gt;
 &lt;/div&gt;

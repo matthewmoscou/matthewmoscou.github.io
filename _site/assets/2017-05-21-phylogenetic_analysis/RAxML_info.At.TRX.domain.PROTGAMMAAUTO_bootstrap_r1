@@ -1,0 +1,418 @@
+
+
+IMPORTANT WARNING: Sequences AT1G14570.1_163_295 and AT1G14570.3_142_274 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AT2G15570.2_46_174 and AT2G15570.1_46_173 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AT1G07700.3_65_214 and AT1G07700.1_52_201 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AT1G08570.1_66_206 and AT1G08570.2_35_175 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AT3G17880.2_218_371 and AT3G17880.1_225_378 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AT1G62180.1_332_454 and AT1G62180.2_325_447 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AT1G15020.1_34_170 and AT1G15020.2_34_170 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AT4G27080.2_171_315 and AT4G27080.1_119_263 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AT5G60640.1_211_550 and AT5G60640.3_211_486 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AT2G47470.4_15_251 and AT2G47470.2_15_251 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AT2G47470.4_15_251 and AT2G47470.1_15_251 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AT2G47470.4_15_251 and AT2G47470.3_15_251 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AT1G21750.1_11_142 and AT1G21750.2_11_142 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AT3G54960.1_80_204 and AT3G54960.2_80_204 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AT5G60640.2_84_208 and AT5G60640.3_84_208 are exactly identical
+
+IMPORTANT WARNING
+Found 15 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file At.TRX.domain.MUSCLEf.phy.reduced
+
+
+This is RAxML version 8.2.9 released by Alexandros Stamatakis on July 20 2016.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 187 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 47.49%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 100 inferences on the original alignment using 100 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 187
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: WAG
+Using fixed base frequencies
+
+
+
+
+RAxML was called as follows:
+
+raxml -s At.TRX.domain.MUSCLEf.phy -n At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1 -N 100 -m PROTGAMMAWAG -p 427482396541 -T 4 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Inference[0]: Time 191.533946 GAMMA-based likelihood -17191.295187, best rearrangement setting 10
+alpha[0]: 4.303363 
+Inference[1]: Time 247.843969 GAMMA-based likelihood -17190.446938, best rearrangement setting 15
+alpha[0]: 4.467341 
+Inference[2]: Time 194.209075 GAMMA-based likelihood -17192.039379, best rearrangement setting 15
+alpha[0]: 4.783021 
+Inference[3]: Time 223.879351 GAMMA-based likelihood -17190.553604, best rearrangement setting 5
+alpha[0]: 4.600086 
+Inference[4]: Time 263.315611 GAMMA-based likelihood -17187.987388, best rearrangement setting 20
+alpha[0]: 4.770618 
+Inference[5]: Time 240.216935 GAMMA-based likelihood -17189.993372, best rearrangement setting 15
+alpha[0]: 4.484851 
+Inference[6]: Time 162.603976 GAMMA-based likelihood -17193.733183, best rearrangement setting 15
+alpha[0]: 4.588112 
+Inference[7]: Time 196.962183 GAMMA-based likelihood -17191.784967, best rearrangement setting 15
+alpha[0]: 4.591811 
+Inference[8]: Time 273.705442 GAMMA-based likelihood -17187.819982, best rearrangement setting 5
+alpha[0]: 4.524272 
+Inference[9]: Time 148.044429 GAMMA-based likelihood -17192.624651, best rearrangement setting 5
+alpha[0]: 4.861997 
+Inference[10]: Time 169.051534 GAMMA-based likelihood -17189.810997, best rearrangement setting 20
+alpha[0]: 4.632671 
+Inference[11]: Time 240.182998 GAMMA-based likelihood -17187.500871, best rearrangement setting 10
+alpha[0]: 4.703246 
+Inference[12]: Time 246.996840 GAMMA-based likelihood -17191.159283, best rearrangement setting 10
+alpha[0]: 4.468065 
+Inference[13]: Time 167.350904 GAMMA-based likelihood -17196.784166, best rearrangement setting 15
+alpha[0]: 4.706689 
+Inference[14]: Time 342.612691 GAMMA-based likelihood -17191.277846, best rearrangement setting 5
+alpha[0]: 4.648448 
+Inference[15]: Time 137.408790 GAMMA-based likelihood -17193.347726, best rearrangement setting 10
+alpha[0]: 4.885257 
+Inference[16]: Time 185.188831 GAMMA-based likelihood -17190.786162, best rearrangement setting 15
+alpha[0]: 4.834379 
+Inference[17]: Time 154.246559 GAMMA-based likelihood -17191.141671, best rearrangement setting 10
+alpha[0]: 4.816644 
+Inference[18]: Time 121.165881 GAMMA-based likelihood -17192.473389, best rearrangement setting 10
+alpha[0]: 4.616441 
+Inference[19]: Time 158.571095 GAMMA-based likelihood -17190.140596, best rearrangement setting 10
+alpha[0]: 4.747303 
+Inference[20]: Time 137.980195 GAMMA-based likelihood -17189.812747, best rearrangement setting 15
+alpha[0]: 4.633939 
+Inference[21]: Time 129.117388 GAMMA-based likelihood -17189.075736, best rearrangement setting 15
+alpha[0]: 4.286059 
+Inference[22]: Time 107.103287 GAMMA-based likelihood -17193.526767, best rearrangement setting 15
+alpha[0]: 4.651714 
+Inference[23]: Time 237.191103 GAMMA-based likelihood -17195.315649, best rearrangement setting 5
+alpha[0]: 4.432843 
+Inference[24]: Time 115.225203 GAMMA-based likelihood -17191.491806, best rearrangement setting 10
+alpha[0]: 4.484987 
+Inference[25]: Time 178.841410 GAMMA-based likelihood -17190.648484, best rearrangement setting 5
+alpha[0]: 4.697680 
+Inference[26]: Time 174.159400 GAMMA-based likelihood -17188.552713, best rearrangement setting 15
+alpha[0]: 4.212888 
+Inference[27]: Time 148.673343 GAMMA-based likelihood -17190.127839, best rearrangement setting 5
+alpha[0]: 4.333269 
+Inference[28]: Time 161.047878 GAMMA-based likelihood -17191.587304, best rearrangement setting 10
+alpha[0]: 4.593072 
+Inference[29]: Time 162.862889 GAMMA-based likelihood -17193.702254, best rearrangement setting 10
+alpha[0]: 4.607869 
+Inference[30]: Time 115.346701 GAMMA-based likelihood -17195.452191, best rearrangement setting 10
+alpha[0]: 4.667950 
+Inference[31]: Time 213.791767 GAMMA-based likelihood -17188.915054, best rearrangement setting 10
+alpha[0]: 4.808856 
+Inference[32]: Time 149.888421 GAMMA-based likelihood -17190.340819, best rearrangement setting 10
+alpha[0]: 4.476218 
+Inference[33]: Time 127.225746 GAMMA-based likelihood -17195.260079, best rearrangement setting 10
+alpha[0]: 4.607974 
+Inference[34]: Time 93.316984 GAMMA-based likelihood -17193.410858, best rearrangement setting 5
+alpha[0]: 4.559376 
+Inference[35]: Time 149.812786 GAMMA-based likelihood -17188.397441, best rearrangement setting 10
+alpha[0]: 4.375653 
+Inference[36]: Time 129.409820 GAMMA-based likelihood -17195.617401, best rearrangement setting 10
+alpha[0]: 4.627147 
+Inference[37]: Time 257.547740 GAMMA-based likelihood -17188.168001, best rearrangement setting 15
+alpha[0]: 4.710550 
+Inference[38]: Time 242.421234 GAMMA-based likelihood -17189.543320, best rearrangement setting 20
+alpha[0]: 4.928722 
+Inference[39]: Time 159.064562 GAMMA-based likelihood -17189.929695, best rearrangement setting 25
+alpha[0]: 4.480620 
+Inference[40]: Time 191.991653 GAMMA-based likelihood -17191.299014, best rearrangement setting 10
+alpha[0]: 4.700454 
+Inference[41]: Time 174.222259 GAMMA-based likelihood -17196.854251, best rearrangement setting 10
+alpha[0]: 4.455313 
+Inference[42]: Time 208.785627 GAMMA-based likelihood -17190.434289, best rearrangement setting 10
+alpha[0]: 4.633065 
+Inference[43]: Time 249.220082 GAMMA-based likelihood -17190.949549, best rearrangement setting 20
+alpha[0]: 4.643916 
+Inference[44]: Time 131.457744 GAMMA-based likelihood -17189.867766, best rearrangement setting 15
+alpha[0]: 4.369567 
+Inference[45]: Time 168.897449 GAMMA-based likelihood -17195.638059, best rearrangement setting 10
+alpha[0]: 4.983326 
+Inference[46]: Time 140.982766 GAMMA-based likelihood -17193.308977, best rearrangement setting 5
+alpha[0]: 4.656592 
+Inference[47]: Time 158.880507 GAMMA-based likelihood -17194.239400, best rearrangement setting 15
+alpha[0]: 4.659839 
+Inference[48]: Time 107.386122 GAMMA-based likelihood -17192.954013, best rearrangement setting 10
+alpha[0]: 4.517040 
+Inference[49]: Time 224.872278 GAMMA-based likelihood -17195.466622, best rearrangement setting 20
+alpha[0]: 4.691730 
+Inference[50]: Time 215.975648 GAMMA-based likelihood -17188.158226, best rearrangement setting 10
+alpha[0]: 4.594819 
+Inference[51]: Time 183.008927 GAMMA-based likelihood -17187.913061, best rearrangement setting 5
+alpha[0]: 4.401264 
+Inference[52]: Time 134.988391 GAMMA-based likelihood -17191.317561, best rearrangement setting 15
+alpha[0]: 4.590918 
+Inference[53]: Time 170.659778 GAMMA-based likelihood -17188.138178, best rearrangement setting 15
+alpha[0]: 4.590725 
+Inference[54]: Time 277.997496 GAMMA-based likelihood -17191.925068, best rearrangement setting 20
+alpha[0]: 4.905568 
+Inference[55]: Time 180.247264 GAMMA-based likelihood -17191.470747, best rearrangement setting 15
+alpha[0]: 4.503241 
+Inference[56]: Time 236.938704 GAMMA-based likelihood -17189.594435, best rearrangement setting 15
+alpha[0]: 4.816946 
+Inference[57]: Time 170.154057 GAMMA-based likelihood -17188.945878, best rearrangement setting 20
+alpha[0]: 4.716209 
+Inference[58]: Time 208.175624 GAMMA-based likelihood -17188.825224, best rearrangement setting 10
+alpha[0]: 4.578318 
+Inference[59]: Time 173.125377 GAMMA-based likelihood -17193.908831, best rearrangement setting 10
+alpha[0]: 4.760039 
+Inference[60]: Time 186.790291 GAMMA-based likelihood -17188.375080, best rearrangement setting 15
+alpha[0]: 4.662050 
+Inference[61]: Time 175.299264 GAMMA-based likelihood -17188.109526, best rearrangement setting 10
+alpha[0]: 4.356238 
+Inference[62]: Time 146.193338 GAMMA-based likelihood -17190.683265, best rearrangement setting 10
+alpha[0]: 4.387610 
+Inference[63]: Time 164.704522 GAMMA-based likelihood -17187.544226, best rearrangement setting 15
+alpha[0]: 4.478600 
+Inference[64]: Time 176.205025 GAMMA-based likelihood -17190.959336, best rearrangement setting 10
+alpha[0]: 4.651967 
+Inference[65]: Time 153.261427 GAMMA-based likelihood -17193.350304, best rearrangement setting 15
+alpha[0]: 4.961014 
+Inference[66]: Time 236.686972 GAMMA-based likelihood -17193.872762, best rearrangement setting 10
+alpha[0]: 4.879289 
+Inference[67]: Time 145.371939 GAMMA-based likelihood -17193.776941, best rearrangement setting 10
+alpha[0]: 4.607135 
+Inference[68]: Time 293.148132 GAMMA-based likelihood -17188.092331, best rearrangement setting 10
+alpha[0]: 4.535615 
+Inference[69]: Time 200.049197 GAMMA-based likelihood -17193.470280, best rearrangement setting 15
+alpha[0]: 4.533980 
+Inference[70]: Time 139.686229 GAMMA-based likelihood -17193.509074, best rearrangement setting 10
+alpha[0]: 4.882572 
+Inference[71]: Time 183.893614 GAMMA-based likelihood -17190.155933, best rearrangement setting 15
+alpha[0]: 4.910872 
+Inference[72]: Time 223.640117 GAMMA-based likelihood -17191.292041, best rearrangement setting 5
+alpha[0]: 4.589151 
+Inference[73]: Time 218.157998 GAMMA-based likelihood -17189.204509, best rearrangement setting 10
+alpha[0]: 4.523746 
+Inference[74]: Time 113.644523 GAMMA-based likelihood -17192.722358, best rearrangement setting 10
+alpha[0]: 4.408627 
+Inference[75]: Time 182.757110 GAMMA-based likelihood -17190.432035, best rearrangement setting 10
+alpha[0]: 4.814449 
+Inference[76]: Time 196.253100 GAMMA-based likelihood -17192.195567, best rearrangement setting 20
+alpha[0]: 4.534787 
+Inference[77]: Time 139.245590 GAMMA-based likelihood -17194.551108, best rearrangement setting 10
+alpha[0]: 4.592519 
+Inference[78]: Time 138.052050 GAMMA-based likelihood -17193.071458, best rearrangement setting 5
+alpha[0]: 4.625916 
+Inference[79]: Time 166.882725 GAMMA-based likelihood -17191.522327, best rearrangement setting 20
+alpha[0]: 4.811683 
+Inference[80]: Time 160.532577 GAMMA-based likelihood -17195.185845, best rearrangement setting 10
+alpha[0]: 4.924110 
+Inference[81]: Time 199.251371 GAMMA-based likelihood -17194.461880, best rearrangement setting 10
+alpha[0]: 4.563742 
+Inference[82]: Time 148.166638 GAMMA-based likelihood -17190.353386, best rearrangement setting 15
+alpha[0]: 4.485251 
+Inference[83]: Time 190.063332 GAMMA-based likelihood -17189.887225, best rearrangement setting 15
+alpha[0]: 4.351659 
+Inference[84]: Time 151.356691 GAMMA-based likelihood -17191.159251, best rearrangement setting 10
+alpha[0]: 4.465790 
+Inference[85]: Time 166.068687 GAMMA-based likelihood -17192.045595, best rearrangement setting 5
+alpha[0]: 4.555358 
+Inference[86]: Time 150.587361 GAMMA-based likelihood -17189.573469, best rearrangement setting 10
+alpha[0]: 4.376314 
+Inference[87]: Time 293.977574 GAMMA-based likelihood -17187.641074, best rearrangement setting 10
+alpha[0]: 4.761046 
+Inference[88]: Time 134.333013 GAMMA-based likelihood -17188.954071, best rearrangement setting 10
+alpha[0]: 4.565479 
+Inference[89]: Time 207.320262 GAMMA-based likelihood -17192.177542, best rearrangement setting 15
+alpha[0]: 4.714791 
+Inference[90]: Time 155.193708 GAMMA-based likelihood -17188.384431, best rearrangement setting 20
+alpha[0]: 4.282878 
+Inference[91]: Time 128.658454 GAMMA-based likelihood -17193.688403, best rearrangement setting 10
+alpha[0]: 4.608091 
+Inference[92]: Time 186.866095 GAMMA-based likelihood -17187.506205, best rearrangement setting 15
+alpha[0]: 4.433059 
+Inference[93]: Time 148.690771 GAMMA-based likelihood -17192.831086, best rearrangement setting 10
+alpha[0]: 4.775937 
+Inference[94]: Time 209.270831 GAMMA-based likelihood -17188.014731, best rearrangement setting 10
+alpha[0]: 4.674721 
+Inference[95]: Time 196.433093 GAMMA-based likelihood -17192.564290, best rearrangement setting 15
+alpha[0]: 4.508684 
+Inference[96]: Time 177.998357 GAMMA-based likelihood -17189.377531, best rearrangement setting 20
+alpha[0]: 4.718531 
+Inference[97]: Time 140.541489 GAMMA-based likelihood -17194.497615, best rearrangement setting 20
+alpha[0]: 4.689742 
+Inference[98]: Time 149.467432 GAMMA-based likelihood -17186.859298, best rearrangement setting 15
+alpha[0]: 4.458597 
+Inference[99]: Time 218.652174 GAMMA-based likelihood -17194.806746, best rearrangement setting 5
+alpha[0]: 4.499550 
+
+
+Conducting final model optimizations on all 100 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -17191.319014 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.0
+Inference[1] final GAMMA-based Likelihood: -17190.450363 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.1
+Inference[2] final GAMMA-based Likelihood: -17192.106048 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.2
+Inference[3] final GAMMA-based Likelihood: -17190.439100 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.3
+Inference[4] final GAMMA-based Likelihood: -17188.113593 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.4
+Inference[5] final GAMMA-based Likelihood: -17189.987420 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.5
+Inference[6] final GAMMA-based Likelihood: -17193.750953 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.6
+Inference[7] final GAMMA-based Likelihood: -17191.793516 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.7
+Inference[8] final GAMMA-based Likelihood: -17187.832884 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.8
+Inference[9] final GAMMA-based Likelihood: -17192.714885 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.9
+Inference[10] final GAMMA-based Likelihood: -17189.851808 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.10
+Inference[11] final GAMMA-based Likelihood: -17187.493123 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.11
+Inference[12] final GAMMA-based Likelihood: -17191.159274 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.12
+Inference[13] final GAMMA-based Likelihood: -17196.861497 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.13
+Inference[14] final GAMMA-based Likelihood: -17191.238733 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.14
+Inference[15] final GAMMA-based Likelihood: -17193.571673 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.15
+Inference[16] final GAMMA-based Likelihood: -17190.981425 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.16
+Inference[17] final GAMMA-based Likelihood: -17191.299453 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.17
+Inference[18] final GAMMA-based Likelihood: -17192.505723 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.18
+Inference[19] final GAMMA-based Likelihood: -17190.207246 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.19
+Inference[20] final GAMMA-based Likelihood: -17189.853377 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.20
+Inference[21] final GAMMA-based Likelihood: -17189.126245 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.21
+Inference[22] final GAMMA-based Likelihood: -17193.576259 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.22
+Inference[23] final GAMMA-based Likelihood: -17195.316742 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.23
+Inference[24] final GAMMA-based Likelihood: -17191.492305 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.24
+Inference[25] final GAMMA-based Likelihood: -17190.542163 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.25
+Inference[26] final GAMMA-based Likelihood: -17188.655406 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.26
+Inference[27] final GAMMA-based Likelihood: -17190.177845 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.27
+Inference[28] final GAMMA-based Likelihood: -17191.527518 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.28
+Inference[29] final GAMMA-based Likelihood: -17193.731631 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.29
+Inference[30] final GAMMA-based Likelihood: -17195.513995 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.30
+Inference[31] final GAMMA-based Likelihood: -17189.020094 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.31
+Inference[32] final GAMMA-based Likelihood: -17190.339243 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.32
+Inference[33] final GAMMA-based Likelihood: -17195.288667 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.33
+Inference[34] final GAMMA-based Likelihood: -17193.421857 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.34
+Inference[35] final GAMMA-based Likelihood: -17188.427530 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.35
+Inference[36] final GAMMA-based Likelihood: -17195.657519 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.36
+Inference[37] final GAMMA-based Likelihood: -17188.214760 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.37
+Inference[38] final GAMMA-based Likelihood: -17189.755120 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.38
+Inference[39] final GAMMA-based Likelihood: -17189.929154 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.39
+Inference[40] final GAMMA-based Likelihood: -17191.377466 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.40
+Inference[41] final GAMMA-based Likelihood: -17196.854182 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.41
+Inference[42] final GAMMA-based Likelihood: -17190.404456 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.42
+Inference[43] final GAMMA-based Likelihood: -17190.925793 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.43
+Inference[44] final GAMMA-based Likelihood: -17189.879054 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.44
+Inference[45] final GAMMA-based Likelihood: -17195.879018 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.45
+Inference[46] final GAMMA-based Likelihood: -17193.337744 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.46
+Inference[47] final GAMMA-based Likelihood: -17194.290222 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.47
+Inference[48] final GAMMA-based Likelihood: -17192.955552 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.48
+Inference[49] final GAMMA-based Likelihood: -17195.580675 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.49
+Inference[50] final GAMMA-based Likelihood: -17188.161116 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.50
+Inference[51] final GAMMA-based Likelihood: -17187.928850 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.51
+Inference[52] final GAMMA-based Likelihood: -17191.342425 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.52
+Inference[53] final GAMMA-based Likelihood: -17188.146826 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.53
+Inference[54] final GAMMA-based Likelihood: -17192.036268 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.54
+Inference[55] final GAMMA-based Likelihood: -17191.472358 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.55
+Inference[56] final GAMMA-based Likelihood: -17189.628727 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.56
+Inference[57] final GAMMA-based Likelihood: -17189.039855 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.57
+Inference[58] final GAMMA-based Likelihood: -17188.829681 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.58
+Inference[59] final GAMMA-based Likelihood: -17194.004768 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.59
+Inference[60] final GAMMA-based Likelihood: -17188.355452 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.60
+Inference[61] final GAMMA-based Likelihood: -17188.154354 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.61
+Inference[62] final GAMMA-based Likelihood: -17190.690043 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.62
+Inference[63] final GAMMA-based Likelihood: -17187.540448 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.63
+Inference[64] final GAMMA-based Likelihood: -17191.001373 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.64
+Inference[65] final GAMMA-based Likelihood: -17193.693438 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.65
+Inference[66] final GAMMA-based Likelihood: -17194.137037 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.66
+Inference[67] final GAMMA-based Likelihood: -17193.809808 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.67
+Inference[68] final GAMMA-based Likelihood: -17188.086550 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.68
+Inference[69] final GAMMA-based Likelihood: -17193.472711 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.69
+Inference[70] final GAMMA-based Likelihood: -17193.759348 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.70
+Inference[71] final GAMMA-based Likelihood: -17190.397286 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.71
+Inference[72] final GAMMA-based Likelihood: -17191.285916 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.72
+Inference[73] final GAMMA-based Likelihood: -17189.212785 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.73
+Inference[74] final GAMMA-based Likelihood: -17192.726431 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.74
+Inference[75] final GAMMA-based Likelihood: -17190.510591 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.75
+Inference[76] final GAMMA-based Likelihood: -17192.201206 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.76
+Inference[77] final GAMMA-based Likelihood: -17194.576886 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.77
+Inference[78] final GAMMA-based Likelihood: -17193.059492 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.78
+Inference[79] final GAMMA-based Likelihood: -17191.686565 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.79
+Inference[80] final GAMMA-based Likelihood: -17195.479157 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.80
+Inference[81] final GAMMA-based Likelihood: -17194.457250 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.81
+Inference[82] final GAMMA-based Likelihood: -17190.354798 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.82
+Inference[83] final GAMMA-based Likelihood: -17189.910230 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.83
+Inference[84] final GAMMA-based Likelihood: -17191.159274 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.84
+Inference[85] final GAMMA-based Likelihood: -17192.092114 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.85
+Inference[86] final GAMMA-based Likelihood: -17189.584296 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.86
+Inference[87] final GAMMA-based Likelihood: -17187.621072 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.87
+Inference[88] final GAMMA-based Likelihood: -17188.956873 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.88
+Inference[89] final GAMMA-based Likelihood: -17192.290961 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.89
+Inference[90] final GAMMA-based Likelihood: -17188.427531 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.90
+Inference[91] final GAMMA-based Likelihood: -17193.721629 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.91
+Inference[92] final GAMMA-based Likelihood: -17187.509225 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.92
+Inference[93] final GAMMA-based Likelihood: -17192.962029 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.93
+Inference[94] final GAMMA-based Likelihood: -17188.132282 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.94
+Inference[95] final GAMMA-based Likelihood: -17192.534127 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.95
+Inference[96] final GAMMA-based Likelihood: -17189.464821 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.96
+Inference[97] final GAMMA-based Likelihood: -17194.578464 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.97
+Inference[98] final GAMMA-based Likelihood: -17186.859278 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.98
+Inference[99] final GAMMA-based Likelihood: -17194.799941 tree written to file /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_result.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1.RUN.99
+
+
+Starting final GAMMA-based thorough Optimization on tree 98 likelihood -17186.859278 .... 
+
+Final GAMMA-based Score of best tree -17186.859278
+
+Program execution info written to /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_info.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1
+Best-scoring ML tree written to: /Users/moscoum/Research/www/matthewmoscou.github.io/assets/2017-05-21-phylogenetic_analysis/RAxML_bestTree.At.TRX.domain.PROTGAMMAAUTO_bootstrap_r1
+
+Overall execution time: 18131.790031 secs or 5.036608 hours or 0.209859 days
+
