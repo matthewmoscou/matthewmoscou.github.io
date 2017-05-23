@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-23T06:31:00+01:00</updated><id>http://localhost:4000/</id><title type="html">Moscou Group at The Sainsbury Laboratory</title><subtitle>The Moscou group focuses on understanding immunity in the grasses. Current themes in our research include dissecting the genetic architecture of nonhost resistance, tradeoffs between biotrophs and necrotrophs, seedling versus adult plant resistance, and suppression of resistance in polyploid genomes. The group uses genetics and bioinformatics to explore biology and solve long-standing puzzles.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-23T06:36:43+01:00</updated><id>http://localhost:4000/</id><title type="html">Moscou Group at The Sainsbury Laboratory</title><subtitle>The Moscou group focuses on understanding immunity in the grasses. Current themes in our research include dissecting the genetic architecture of nonhost resistance, tradeoffs between biotrophs and necrotrophs, seedling versus adult plant resistance, and suppression of resistance in polyploid genomes. The group uses genetics and bioinformatics to explore biology and solve long-standing puzzles.
 </subtitle><entry><title type="html">Phylogenetic analysis using RAxML</title><link href="http://localhost:4000/tutorials/general/phylogenetics/tutorial/2017/05/21/phylogenetic_analysis.html" rel="alternate" type="text/html" title="Phylogenetic analysis using RAxML" /><published>2017-05-21T13:00:00+01:00</published><updated>2017-05-21T13:00:00+01:00</updated><id>http://localhost:4000/tutorials/general/phylogenetics/tutorial/2017/05/21/phylogenetic_analysis</id><content type="html" xml:base="http://localhost:4000/tutorials/general/phylogenetics/tutorial/2017/05/21/phylogenetic_analysis.html">&lt;p&gt;This tutorial describes the general approach of phylogenetic tree construction using RAxML, focusing on a example using the thioredoxin gene family in &lt;em&gt;Arabidopsis thaliana&lt;/em&gt;. The analysis will incorporate the use of domain identification, domain extraction, multiple sequence alignment, phylogenetic tree construction, bootstrap analysis, and biological interpretation.&lt;/p&gt;
 
 &lt;p&gt;Examples files used in this analysis can be found on Github in the examples folder of &lt;a href=&quot;https://github.com/matthewmoscou/QKdomain&quot;&gt;QKdomain&lt;/a&gt;.&lt;/p&gt;
@@ -6,7 +6,7 @@
 &lt;h2 id=&quot;identification-of-thioredoxins-in-arabidopsis-thaliana&quot;&gt;Identification of thioredoxins in &lt;em&gt;Arabidopsis thaliana&lt;/em&gt;&lt;/h2&gt;
 &lt;p&gt;The thioredoxins of &lt;em&gt;Arabidopsis thaliana&lt;/em&gt; were identified by identifying all proteins with the Pfam domain PF00085. Next, InterProScan was used to evaluate these sequences. The resulting output in tab-separated format (tsv) is used by the &lt;a href=&quot;https://github.com/matthewmoscou/QKdomain&quot;&gt;QKdomain&lt;/a&gt; (v1.0) suite of scripts to identify the diversity of domains. Initially, &lt;code class=&quot;highlighter-rouge&quot;&gt;QKdomain_preprocess.py&lt;/code&gt; is used to assess the domain content present in the protein data set.&lt;/p&gt;
 
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python QKdomain_preprocess.py examples/Athaliana_167_TAIR10.protein.TRX.fa.tsv At_TRX_preprocess.txt
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python QKdomain_preprocess.py Athaliana_167_TAIR10.protein.TRX.fa.tsv At_TRX_preprocess.txt
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
@@ -23,7 +23,7 @@ PF00789	UBX
 
 &lt;p&gt;Next, we identify the domain structure of proteins in the data set.&lt;/p&gt;
 
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python QKdomain_process.py examples/Athaliana_167_TAIR10.protein.TRX.fa examples/Athaliana_167_TAIR10.protein.TRX.fa.tsv examples/At_TRX_abbreviations.txt At_TRX_process.txt
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python QKdomain_process.py Athaliana_167_TAIR10.protein.TRX.fa Athaliana_167_TAIR10.protein.TRX.fa.tsv At_TRX_abbreviations.txt At_TRX_process.txt
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
@@ -43,7 +43,7 @@ AT1G08570.1	CC-TRX
 
 &lt;p&gt;To export all thioredoxin (TRX) domains in the set of proteins, use the following command:&lt;/p&gt;
 
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python QKdomain_process.py -d TRX examples/Athaliana_167_TAIR10.protein.TRX.fa examples/Athaliana_167_TAIR10.protein.TRX.fa.tsv examples/At_TRX_abbreviations.txt At_TRX_process.txt At.TRX.domain.fa
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python QKdomain_process.py -d TRX Athaliana_167_TAIR10.protein.TRX.fa Athaliana_167_TAIR10.protein.TRX.fa.tsv At_TRX_abbreviations.txt At_TRX_process.txt At.TRX.domain.fa
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 

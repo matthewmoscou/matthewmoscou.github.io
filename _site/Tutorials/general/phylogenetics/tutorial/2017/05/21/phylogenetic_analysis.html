@@ -60,7 +60,7 @@
 <h2 id="identification-of-thioredoxins-in-arabidopsis-thaliana">Identification of thioredoxins in <em>Arabidopsis thaliana</em></h2>
 <p>The thioredoxins of <em>Arabidopsis thaliana</em> were identified by identifying all proteins with the Pfam domain PF00085. Next, InterProScan was used to evaluate these sequences. The resulting output in tab-separated format (tsv) is used by the <a href="https://github.com/matthewmoscou/QKdomain">QKdomain</a> (v1.0) suite of scripts to identify the diversity of domains. Initially, <code class="highlighter-rouge">QKdomain_preprocess.py</code> is used to assess the domain content present in the protein data set.</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>python QKdomain_preprocess.py examples/Athaliana_167_TAIR10.protein.TRX.fa.tsv At_TRX_preprocess.txt
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>python QKdomain_preprocess.py Athaliana_167_TAIR10.protein.TRX.fa.tsv At_TRX_preprocess.txt
 </code></pre>
 </div>
 
@@ -77,7 +77,7 @@ PF00789	UBX
 
 <p>Next, we identify the domain structure of proteins in the data set.</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>python QKdomain_process.py examples/Athaliana_167_TAIR10.protein.TRX.fa examples/Athaliana_167_TAIR10.protein.TRX.fa.tsv examples/At_TRX_abbreviations.txt At_TRX_process.txt
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>python QKdomain_process.py Athaliana_167_TAIR10.protein.TRX.fa Athaliana_167_TAIR10.protein.TRX.fa.tsv At_TRX_abbreviations.txt At_TRX_process.txt
 </code></pre>
 </div>
 
@@ -97,7 +97,7 @@ AT1G08570.1	CC-TRX
 
 <p>To export all thioredoxin (TRX) domains in the set of proteins, use the following command:</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>python QKdomain_process.py -d TRX examples/Athaliana_167_TAIR10.protein.TRX.fa examples/Athaliana_167_TAIR10.protein.TRX.fa.tsv examples/At_TRX_abbreviations.txt At_TRX_process.txt At.TRX.domain.fa
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>python QKdomain_process.py -d TRX Athaliana_167_TAIR10.protein.TRX.fa Athaliana_167_TAIR10.protein.TRX.fa.tsv At_TRX_abbreviations.txt At_TRX_process.txt At.TRX.domain.fa
 </code></pre>
 </div>
 
