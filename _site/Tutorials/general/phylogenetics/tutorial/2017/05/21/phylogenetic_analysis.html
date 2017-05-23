@@ -218,11 +218,11 @@ AT1G08570.1	CC-TRX
 
 <p>An example of how the tree is incorrect is seen below.</p>
 
-<p><img src="At.TRX.domain.MUSCLE2.phylogeny.png" alt="alt text" title="TRX phylogenetic tree without curation" /></p>
+<p><img src="/assets/2017-05-21-phylogenetic_analysis/At.TRX.domain.MUSCLE2.phylogeny.png" alt="alt text" title="TRX phylogenetic tree without curation" /></p>
 
 <p>After removal of divergent sequence, the tree takes its correct structure.</p>
 
-<p><img src="At.TRX.domain.MUSCLE3.phylogeny.png" alt="alt text" title="TRX phylogenetic tree with curation" /></p>
+<p><img src="/assets/2017-05-21-phylogenetic_analysis/At.TRX.domain.MUSCLE3.phylogeny.png" alt="alt text" title="TRX phylogenetic tree with curation" /></p>
 
 <h2 id="phylogenetic-tree-construction-of-thioredoxin-domains-from-arabidopsis-thaliana">Phylogenetic tree construction of thioredoxin domains from <em>Arabidopsis thaliana</em></h2>
 <p>Several approaches and software are available for phylogenetic tree construction including but not limited to parsimony, neighbor-joining, and maximum likelihood. Here, we demonstrate how to generate a maximum likelihood phylogenetic tree using <a href="https://github.com/stamatak/standard-RAxML">RAxML</a>. First, we generate the phylogenetic tree. In the first instance, we will use the automatic selection of amino acid selection model (PROTGAMMAAUTO) and use four processors <code class="highlighter-rouge">-T 4</code>.</p>
@@ -261,6 +261,9 @@ raxml -z allBootstraps -m PROTGAMMAWAG -I autoMRE -n TEST -p 3824142315 -T 4
 </div>
 
 <p>The file <code class="highlighter-rouge">At.TRX.domain.PROTGAMMAWAGandBOOTSTRAP.txt</code> can be directly used with <a href="http://itol.embl.de">EMBL iTOL</a> for visualization.</p>
+
+<h2 id="files-used-in-all-analyses">Files used in all analyses</h2>
+<p>All files used in this analysis can be accessed on my webpage source account on <a href="https://github.com/matthewmoscou/matthewmoscou.github.io/tree/master/assets/2017-05-21-phylogenetic_analysis">Github</a>.</p>
 
         </section>
         
