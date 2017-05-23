@@ -150,3 +150,6 @@ raxml -f b -z allBootstraps -t RAxML_result.At.TRX.domain.PROTGAMMAAUTO -m PROTG
 ```
 
 The file `At.TRX.domain.PROTGAMMAWAGandBOOTSTRAP.txt` can be directly used with [EMBL iTOL](http://itol.embl.de) for visualization.
+
+## Files used in all analyses
+All files used in this analysis can be accessed on my webpage source account on [Github](https://github.com/matthewmoscou/matthewmoscou.github.io/tree/master/assets/2017-05-21-phylogenetic_analysis).
