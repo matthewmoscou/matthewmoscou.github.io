@@ -9,8 +9,8 @@ Our group actively engages with the scientific and wider community through perso
 ## [Data](../Data)
 It can be a challenge to navigate large repositories when accessing sequencing data. We have collected links for all the sequencing data that has been generated in our group. [link](../Data)
 
-## [Germplas](../Germplasm)
-We access a range of genetic resources that are publically available from the monocot community. In addition, we contribute by developing population that will be useful to ourselves and others. For a list of resources we have in house, follow this [link](../Germplasm).
+## [Germplasm](../Germplasm)
+We access a range of genetic resources that are publically available from the community. In addition, we contribute by developing populations that will be useful to ourselves and others. For a list of resources we have in house, follow this [link](../Germplasm).
 
 ## [Posters](../Posters)
 We are in the process of collecting and posting to [Figshare](https://figshare.com) our presented posters over the last seven years. [link](../Posters)
