@@ -14,7 +14,6 @@ permalink: /Group/
 |Phon Green                   | 2011          |Greenhouse manager     |
 |Inmaculada Hernández-Pinzón  | 2010          |Lab manager            |
 |Samuel Holden                | 2016          |PhD student            |
-|William Jackson              | 2015          |Research associate     |
 |Matthew Moscou               | 2010          |Group leader           |
 
 ## Alumni of the group include:
@@ -33,6 +32,7 @@ permalink: /Group/
 |John Ferguson                |2011 - 2012|MSc student                |
 |Sixtine Flipo                |   2012    |Undergraduate student      |
 |Matthew Gardiner             |2011 - 2015|Technician                 |
+|William Jackson              |2015 - 2017|Research associate         |
 |William Kitcher              |2016 - 2017|Undergraduate/Msc student  |
 |Peter Matthews               |   2011    |MSc student                |
 |Katie O'Neill                |   2015    |Technician                 |
@@ -43,4 +43,4 @@ permalink: /Group/
 |Lucy Veck                    |   2017    |Undergraduate student      |
 |Aizhan Zhussupova            |   2016    |Visiting scientist         |
 
-Last updated: 2017 May 30
+Last updated: 2017 June 6
