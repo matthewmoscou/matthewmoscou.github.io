@@ -10,32 +10,32 @@ Our group actively engages with the scientific and wider community through perso
 Members of the group actively participate in a range of public forums, interacting with the general public, children at primary and secondary schools, students in higher education, policy makers, and the media.
 
 ### 2014
-Young Innovators’ Forum 
-Norwich Science Festival
+Young Innovators’ Forum  
+Norwich Science Festival  
 
 ### 2015
-Science in Norwich day
-Norwich Science Festival
-Inside Science Workshops at the John Innes Centre (School/college students around Norwich)
-[Eastern Daily Press](http://www.edp24.co.uk/news/health/norfolk-scientist-s-role-in-amazing-cancer-breakthrough-1-4300721)
-Mustard TV
+Science in Norwich day  
+Norwich Science Festival  
+Inside Science Workshops at the John Innes Centre (School/college students around Norwich)  
+[Eastern Daily Press](http://www.edp24.co.uk/news/health/norfolk-scientist-s-role-in-amazing-cancer-breakthrough-1-4300721)  
+Mustard TV  
 
 ### 2016
-Norwich Science Festival
-SET for BRITAIN exhibition at UK parliament
-Breeders Day at the John Innes Centre
-UEA Outreach Introduction to University (DNA extractions with Year 6 children)
-Youth STEM Award Event (Encourage interest in scientific careers to 15-16 year old female students from Norwich)
+Norwich Science Festival  
+SET for BRITAIN exhibition at UK parliament  
+Breeders Day at the John Innes Centre  
+UEA Outreach Introduction to University (DNA extractions with Year 6 children)  
+Youth STEM Award Event (Encourage interest in scientific careers to 15-16 year old female students from Norwich)  
 
 ### 2017
-Norwich Science Festival
-UEA-BIO Summer School, Infectious Disease workshop
-Pint of Science (organization, Norwich)
-[BBC News](http://www.bbc.co.uk/news/science-environment-42446795)
-BBC Radio Norfolk
-[BBC Radio 4](http://www.bbc.co.uk/programmes/b09gzjdd#play)
-BBC World News
-[Eastern Daily Press](http://www.edp24.co.uk/news/tech/barley-breakthrough-solves-beer-flavour-debate-say-norwich-scientists-1-5301240)
+Norwich Science Festival  
+UEA-BIO Summer School, Infectious Disease workshop  
+Pint of Science (organization, Norwich)  
+[BBC News](http://www.bbc.co.uk/news/science-environment-42446795)  
+BBC Radio Norfolk  
+[BBC Radio 4](http://www.bbc.co.uk/programmes/b09gzjdd#play)  
+BBC World News  
+[Eastern Daily Press](http://www.edp24.co.uk/news/tech/barley-breakthrough-solves-beer-flavour-debate-say-norwich-scientists-1-5301240)  
 
 
 ## [Data](../Data)

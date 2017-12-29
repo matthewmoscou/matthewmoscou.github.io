@@ -1,7 +1,7 @@
 ---
 layout: nosidebar
 title: Genes
-permalink: /resistancegenes/
+permalink: /Genes/
 ---
 
 ## Resistance to Puccinia striiformis (Rps)
@@ -26,13 +26,16 @@ permalink: /resistancegenes/
 |*Rps11*|*Rps11.o*|Heils Franken          |PI 327917 |      1HS       |                              |[Moscou Group](http://moscoulab.org)|
 
 ### Tentative designations
-|Locus       |Donor                  |Accession |Chromosome (arm)|Closely linked marker         |References      |
-|:-----------|:---------------------:|:--------:|:--------------:|:----------------------------:|:--------------:|
-|*RpsBenton* |Benton                 |NA        |      3HL       |                              |[1](https://www)|
+
+|Locus       |Donor                  |Accession |Chromosome (arm)|Closely linked marker         |References                          |
+|:-----------|:---------------------:|:--------:|:--------------:|:----------------------------:|:----------------------------------:|
+|*RpsBenton* |Benton                 |NA        |      3HL       |                              |[Moscou Group](http://moscoulab.org)|
 
 
 ### References
 Chen and Line (2002) Identification of genes for resistance to *Puccinia striiformis* f. sp. *hordei* in 18 barley genotypes. ***Euphytica*** **129**: 127–145 [link](https://doi.org/10.1023/A:1021585907493)
+
+Yan and Chen (2007) Molecular mapping of the *rps1.a* recessive gene for resistance to stripe rust in BBA 2890 barley. ***Phytopathology*** **97**:668-673. [link](https://doi.org/10.1094/PHYTO-97-6-0668)
 
 Dawson *et al.* (2016) Isolation and fine mapping of *Rps6*: An intermediate host resistance gene in barley to wheat stripe rust. ***Theoretical and Applied Genetics*** **129**: 831-843 [link](https://doi.org/10.1007/s00122-015-2659-x)
 
@@ -40,8 +43,6 @@ Li *et al.* (2016) Fine mapping of barley locus *Rps6* conferring resistance to 
 
 Klos *et al.* (2016) Barley stripe rust resistance QTL: Development and validation of SNP markers for Resistance to *Puccinia striiformis* f. sp. *hordei* ***Phytopathology*** **106**:1344-1351. [link](https://doi.org/10.1094/PHYTO-09-15-0225-R)
 
-Yan and Chen (2007) Molecular mapping of the *rps1.a* recessive gene for resistance to stripe rust in BBA 2890 barley. ***Phytopathology*** **97**:668-673. [link](https://doi.org/10.1094/PHYTO-97-6-0668)
+If you identify any errors or omissions on this page, please contact Matthew Moscou via [e-mail](matthew.moscou@sainsbury-laboratory.ac.uk).
 
-If you identify any errors or omissions on this page, please contact Matthew Moscou via e-mail.
-
-Last updated: 2017 July 9 
+Last updated: 2017 December 29
