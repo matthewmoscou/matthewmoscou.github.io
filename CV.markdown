@@ -54,6 +54,13 @@ James Cornette Research Fellowship in Bioinformatics and Computational Biology, 
 
 ## Publications
 ### 2017
+Moscou, M. J. and van Esse, H. P. (2017) The quest for durable resistance. <b><i>Science</i></b> <b>358</b>:1541-1542. [doi:10.1126/science.aar4797](http://doi.org/10.1126/science.aar4797)
+
+Herb, D.W., Benson, A., Carey, D., Cistue, L., Filichkin, T, Fisk, S.P., Helgerson, L., Jennings, R., Li, Y., Meints, B.M., Monsour, R., Moscou, M., Nguygen, A., Onio, A., Romagosa, I., Thiel, R., Thomas, W.B., Tynan, S.P., Vega, V., Vinkemeier, K., Hayes, P.M. (2017) Malt modification and its effects on the contributions of barley genotype to beer flavor. <b><i>Journal of American Society of Brewing Chemists</i></b>. <b>4</b>:354-362 [doi:10.1094/ASBCJ-2017-4976-01](http://doi.org/10.1094/ASBCJ-2017-4976-01)
+
+Herb, D.W., Meints, B.M., Jennings, R., Romagosa, I., Moscou, M., Carey, D., Cistue, L., Filichkin, T, Fisk, S.P., Helgerson, L., Martens, C., Monsour, R., Thiel, R., Tynan, S., Thomas, W.T.B., Vinkemeier, K., Hayes, P.M. 2017. Effects of barley (<i>Hordeum vulgare</i> L.) variety and growing environment on beer flavor. Journal of American Society of Brewing Chemists. <b>4</b>:345-353 [doi:10.1094/ASBCJ-2017-4860-01](http://doi.org/10.1094/ASBCJ-2017-4860-01)
+
+
 Yu, G., Champouret, N., Steuernagel, B., Olivera, P.D., Simmons, J. Williams, C. Johnson, R., Moscou, M.J., Hernández-Pinzón, I., Green, P., Sela, H., Millet, E., Jones, J.D.G., Ward, E.R., Steffenson, B.J., and Wulff, B.B.H. (2017) Discovery and characterization of two new stem rust resistance genes in <i>Aegilops sharonensis</i>. <b><i>Theoretical and Applied Genetics</i></b> Accepted. [doi:10.1007/s00122-017-2882-8](https://doi.org/10.1007/s00122-017-2882-8)
 
 Hisano, H., Meints, B., Moscou, M.J., Cistue, L., Echávarri, B., Sato, K., and Hayes, P.M. (2017) Selection of transformation-efficient barley genotypes based on <i>TFA</i> (transformation amenability) haplotype and higher resolution mapping of the <i>TFA</i> loci. <b><i>Plant Cell Reports</i></b> <b>36</b>:611–620 [doi:10.1007/s00299-017-2107-2](https://doi.org/10.1007/s00299-017-2107-2)
@@ -124,6 +131,8 @@ Wise, R. P., Meng, Y., Moscou, M. J., Xu, W. 2009. Regulators of innate immunity
 Moscou, M.J., Caldo, R.A., Lauter, N., Wise, R.P. 2008. Construction of coexpression networks to explore barley-powdery mildew interactions. Paper 113 in: Biology of Plant Microbe Interactions, Volume 6. M. Lorito, S. L. Woo, and F. Scala, eds. International Society for Molecular Plant-Microbe Interactions, St. Paul, MN
 
 ## Invited Talks
+Dissecting the genetic architecture of nonhost resistance to stripe rust. RWTH Aachen University. Aachen, Germany. June 7, 2017
+
 Dissecting the genetic architecture of nonhost resistance to stripe rust. Institut de Recherche pour le Développement. Montpellier, France. April 21, 2017
 
 The process of discovery: How a conversation at a conference led to the development of a research program. Plant Sciences Graduate Student Symposium. Saskatoon, Saskatchewan, Canada. April 1, 2017
@@ -189,4 +198,4 @@ Genetics Society of America
 International Society of Molecular Plant-Microbe Interactions  
 
 
-Last updated: 2017 April 3 
+Last updated: 2017 December 29 

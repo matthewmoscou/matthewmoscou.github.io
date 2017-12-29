@@ -42,6 +42,23 @@ permalink: /Funding/
 	<div class="row">
 		<div class="6u">
 			<section class="special">
+				<a href="http://2blades.org/" class="image fit"><img src="../images/2blades.png" alt="" /></a>
+			</section>
+		</div>
+		<div class="6u">
+			<section class="leftadjust">
+				<h2>2Blades Foundation</h2>
+				<p>Perry Foundation was established in 2004 as a 501(c)3 US charitable organization to implement practical uses of important innovations in plant science that address the rising incidence of crop disease.</p>
+				<p>Funding from the 2Blades Foundation currently supports translational projects in the group.</p>
+			</section>
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
+		<div class="6u">
+			<section class="special">
 				<a href="http://www.perryfoundation.co.uk/" class="image fit"><img src="../images/perry.png" alt="" /></a>
 			</section>
 		</div>
@@ -55,4 +72,4 @@ permalink: /Funding/
 	</div>
 </div>
 
-Last updated: 2017 March 25
+Last updated: 2017 December 29

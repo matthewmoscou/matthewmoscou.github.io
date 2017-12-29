@@ -4,7 +4,32 @@ title: Publications
 permalink: /Publications/
 ---
 
+## bioRxiv
+Brabham, H. J., Hernández-Pinzón, I., Holden, S., Lorang, J., and Moscou, M.J. (2017) An ancient integration in a plant NLR is maintained as a <i>trans</i>-species polymorphism. <b><i>bioRxiv</i></b> 239541 [doi:10.1101/239541](https://doi.org/10.1101/239541)
+  * [Raw data for figures and <i>de novo</i> assembled transcriptomes on figshare](https://figshare.com/account/home#/projects/27682)
+  * [Phylogenetic trees on iTOL](http://itol.embl.de/) - Under 'Sharing data' use the iTOL login: moscou
+  * [Scripts and Exo70 annotation](https://github.com/matthewmoscou/Exo70)
+  * [Raw sequencing and assembled genomic and transcriptomic data](https://www.ncbi.nlm.nih.gov)
+   1. [Barley RNAseq set 1](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA378334/)
+   2. [Barley RNAseq set 2](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA378723/)
+   3. [Oat RNAseq and RenSeq/PacBio](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA422803/)
+   4. [Barley RenSeq/PacBio](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA422986/)
+
+Bailey, P.C., Schudoma, C., Jackson, W., Baggs, E., Dagdas, G., Haerty, W., Moscou, M., Krasileva, K.V. (2017) Dominant integration locus drives continuous diversification of plant immune receptors with exogenous domain fusions. <b><i>bioRxiv</i></b> 100834 [doi:10.1101/100834](https://doi.org/10.1101/100834)
+  * [Phylogenetic trees on iTOL](http://itol.embl.de/) - Under 'Sharing data' use the iTOL login: KrasilevaGroup
+  * [Scripts for NLR-ID identification](https://github.com/krasileva-group/plant_rgenes)
+  * [Scripts for tandem NLR analysis](https://github.com/krasileva-group/tandem)
+  * [Scripts for CID domain analysis](https://github.com/matthewmoscou/NLR-ID_motif)
+
+Clare, S., Kitcher, W., Gardiner, M., Green, P., Hubbard, A., and Moscou, M.J. (2016) Defining the genetic architecture of stripe rust resistance in the barley accession HOR 1428. <b><i>bioRxiv</i></b> 093773 [doi:10.1101/093773](https://doi.org/10.1101/093773)
+
 ## 2017
+Moscou, M. J. and van Esse, H. P. (2017) The quest for durable resistance. <b><i>Science</i></b> <b>358</b>:1541-1542. [doi:10.1126/science.aar4797](http://doi.org/10.1126/science.aar4797)
+
+Herb, D.W., Benson, A., Carey, D., Cistue, L., Filichkin, T, Fisk, S.P., Helgerson, L., Jennings, R., Li, Y., Meints, B.M., Monsour, R., Moscou, M., Nguygen, A., Onio, A., Romagosa, I., Thiel, R., Thomas, W.B., Tynan, S.P., Vega, V., Vinkemeier, K., Hayes, P.M. (2017) Malt modification and its effects on the contributions of barley genotype to beer flavor. <b><i>Journal of American Society of Brewing Chemists</i></b>. <b>4</b>:354-362 [doi:10.1094/ASBCJ-2017-4976-01](http://doi.org/10.1094/ASBCJ-2017-4976-01)
+
+Herb, D.W., Meints, B.M., Jennings, R., Romagosa, I., Moscou, M., Carey, D., Cistue, L., Filichkin, T, Fisk, S.P., Helgerson, L., Martens, C., Monsour, R., Thiel, R., Tynan, S., Thomas, W.T.B., Vinkemeier, K., Hayes, P.M. 2017. Effects of barley (<i>Hordeum vulgare</i> L.) variety and growing environment on beer flavor. Journal of American Society of Brewing Chemists. <b>4</b>:345-353 [doi:10.1094/ASBCJ-2017-4860-01](http://doi.org/10.1094/ASBCJ-2017-4860-01)
+
 Yu, G., Champouret, N., Steuernagel, B., Olivera, P.D., Simmons, J. Williams, C. Johnson, R., Moscou, M.J., Hernández-Pinzón, I., Green, P., Sela, H., Millet, E., Jones, J.D.G., Ward, E.R., Steffenson, B.J., and Wulff, B.B.H. (2017) Discovery and characterization of two new stem rust resistance genes in <i>Aegilops sharonensis</i>. <b><i>Theoretical and Applied Genetics</i></b> Accepted. [doi:10.1007/s00122-017-2882-8](https://doi.org/10.1007/s00122-017-2882-8)
 
 Hisano, H., Meints, B., Moscou, M.J., Cistue, L., Echávarri, B., Sato, K., and Hayes, P.M. (2017) Selection of transformation-efficient barley genotypes based on <i>TFA</i> (transformation amenability) haplotype and higher resolution mapping of the <i>TFA</i> loci <b><i>Plant Cell Reports</i></b> <b>36</b>:611–620 [doi:10.1007/s00299-017-2107-2](https://doi.org/10.1007/s00299-017-2107-2)
@@ -65,4 +90,4 @@ Potokina, E., Druka, A., Luo, Z., Moscou, M., Wise, R., Waugh, R., Kearsey, M. (
 Wise, R.P., Moscou, M.J., Bogdanove, A.J., Whitham, S.A. (2007) Transcript profiling in host–pathogen interactions. <b><i>Annual Review of Phytopathology</i></b> <b>45</b>: 329-369 [doi:10.1146/annurev.phyto.45.011107.143944](https://doi.org/10.1146/annurev.phyto.45.011107.143944)
 
 
-Last updated: 2017 April 3
+Last updated: 2017 December 29
