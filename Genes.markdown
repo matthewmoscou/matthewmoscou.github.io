@@ -13,14 +13,14 @@ permalink: /Genes/
 |*rps1* |*rps1.c* |Mazurka                |PI 399501 |      3HL       |                              |[Yan and Chen](https://doi.org/10.1094/PHYTO-97-6-0668)|
 |*rps2* |*rps2.d* |Abed Binder 12         |PI 327961 |      2HL       |                              |[Moscou Group](http://moscoulab.org)|
 |*rps3* |*rps3.e* |I 5                    |PI 268187 |  Unknown       |                              |[Chen and Line](https://doi.org/10.1023/A:1021585907493)|
-|*Rps4* |*Rps4.f* |Cambrinus              |PI 321779 |      1HS       |                              |[Moscou Group](http://moscoulab.org)|
+|*Rps4* |*Rps4.f* |Cambrinus              |PI 321779 |      1HS       |                              |[Jensen and Jørgensen](https://wheat.pw.usda.gov/ggpages/bgn/7/7p37.html)|
 |*rps5* |*rps5.g* |Grannelose Zweizeilige |PI 548740 |      4HL       |                              |[Klos](https://doi.org/10.1094/PHYTO-09-15-0225-R)|
 |*Rps6* |*Rps6.h* |Y12                    |PI 466050 |      7HL       | 1_0687  2_1280               |[Li](https://doi.org/10.1007/s00122-015-2663-1)|
 |*Rps6* |*Rps6.h* |Abed Binder 12         |PI 327961 |      7HL       | 1_0687, 2_1280               |[Dawson](https://doi.org/10.1007/s00122-015-2659-x)|
 |*Rps7* |*Rps7.i* |Golden Promise         |          |      1HS       |Complete coupling with *Mla8* |[Moscou Group](http://moscoulab.org)|
 |*Rps7* |*Rps7.j* |CI 16147               |CI 16147  |      1HS       |Complete coupling with *Mla7* |[Moscou Group](http://moscoulab.org)|
 |*Rps7* |*Rps7.k* |CI 16153               |CI 16153  |      1HS       |Complete coupling with *Mla15*|[Moscou Group](http://moscoulab.org)|
-|*Rps8* |*Rps8.l* |Golden Promise         |          |      4HL       |                              |[Moscou Group](http://moscoulab.org)|
+|*Rps8* |*Rps8.l* |Golden Promise         |          |      4HL       | 3_0232                       |[Moscou Group](http://moscoulab.org)|
 |*Rps9* |*Rps9.m* |HOR 1428               |PI 548708 |      5HL       |                              |[Moscou Group](http://moscoulab.org)|
 |*Rps10*|*Rps10.n*|WBDC085                |          |      5HL       |                              |[Moscou Group](http://moscoulab.org)|
 |*Rps11*|*Rps11.o*|Heils Franken          |PI 327917 |      1HS       |                              |[Moscou Group](http://moscoulab.org)|
@@ -29,10 +29,12 @@ permalink: /Genes/
 
 |Locus       |Donor                  |Accession |Chromosome (arm)|Closely linked marker         |References                          |
 |:-----------|:---------------------:|:--------:|:--------------:|:----------------------------:|:----------------------------------:|
-|*RpsBenton* |Benton                 |NA        |      3HL       |                              |[Moscou Group](http://moscoulab.org)|
+|*RpsBenton* |Benton                 |PI 539105 |      4HL       | 2_1243                       |[Moscou Group](http://moscoulab.org)|
 
 
 ### References
+Jensen and Jørgensen (1977) Location of the yellow rust resistance gene *Yr4* on barley chromosome 5. ***Barley Genetics Newsletter*** **7**:37-40 [link](https://wheat.pw.usda.gov/ggpages/bgn/7/7p37.html)
+
 Chen and Line (2002) Identification of genes for resistance to *Puccinia striiformis* f. sp. *hordei* in 18 barley genotypes. ***Euphytica*** **129**: 127–145 [link](https://doi.org/10.1023/A:1021585907493)
 
 Yan and Chen (2007) Molecular mapping of the *rps1.a* recessive gene for resistance to stripe rust in BBA 2890 barley. ***Phytopathology*** **97**:668-673. [link](https://doi.org/10.1094/PHYTO-97-6-0668)
