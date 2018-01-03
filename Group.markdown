@@ -10,7 +10,6 @@ permalink: /Group/
 |:----------------------------|:-------------:|:---------------------:|
 |Sue Banfield                 | 2012          |Technician             |
 |Helen Brabham                | 2015          |PhD student            |
-|Danielle Ciren               | 2017          |Undergraduate student  |
 |Phon Green                   | 2011          |Greenhouse manager     |
 |Inmaculada Hernández-Pinzón  | 2010          |Lab manager            |
 |Samuel Holden                | 2016          |PhD student            |
@@ -24,6 +23,7 @@ permalink: /Group/
 |Michael Barber               |   2012    |Undergraduate student              |
 |Jan Bettgenhaeuser           |2012 - 2017|PhD student/Post-doctoral scientist|
 |Philippa Borrill             |   2010    |Rotation PhD student               |
+|Danielle Ciren               |   2017    |Undergraduate student              |
 |Shaun Clare                  |2015 - 2016|MSc student                        |
 |Chris Clark                  |2011 - 2013|High school student                |
 |Georgina Cox                 |2013 - 2014|Technician                         |
