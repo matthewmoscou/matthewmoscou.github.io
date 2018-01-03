@@ -24,7 +24,7 @@ Bailey, P.C., Schudoma, C., Jackson, W., Baggs, E., Dagdas, G., Haerty, W., Mosc
 Clare, S., Kitcher, W., Gardiner, M., Green, P., Hubbard, A., and Moscou, M.J. (2016) Defining the genetic architecture of stripe rust resistance in the barley accession HOR 1428. <b><i>bioRxiv</i></b> 093773 [doi:10.1101/093773](https://doi.org/10.1101/093773)
 
 ## 2017
-Moscou, M. J. and van Esse, H. P. (2017) The quest for durable resistance. <b><i>Science</i></b> <b>358</b>:1541-1542. [doi:10.1126/science.aar4797](http://doi.org/10.1126/science.aar4797)
+Moscou, M. J. and van Esse, H. P. (2017) The quest for durable resistance. <b><i>Science</i></b> <b>358</b>:1541-1542. [doi:10.1126/science.aar4797](http://doi.org/10.1126/science.aar4797) or a [direct link](http://science.sciencemag.org/cgi/content/full/358/6370/1541?ijkey=/LGSoXCyQFClw&keytype=ref&siteid=sci)
 
 Herb, D.W., Benson, A., Carey, D., Cistue, L., Filichkin, T, Fisk, S.P., Helgerson, L., Jennings, R., Li, Y., Meints, B.M., Monsour, R., Moscou, M., Nguygen, A., Onio, A., Romagosa, I., Thiel, R., Thomas, W.B., Tynan, S.P., Vega, V., Vinkemeier, K., Hayes, P.M. (2017) Malt modification and its effects on the contributions of barley genotype to beer flavor. <b><i>Journal of American Society of Brewing Chemists</i></b>. <b>4</b>:354-362 [doi:10.1094/ASBCJ-2017-4976-01](http://doi.org/10.1094/ASBCJ-2017-4976-01)
 
