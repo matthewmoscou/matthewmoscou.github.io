@@ -79,7 +79,7 @@ permalink: /Data/
 |Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Fong Tien|Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GGCZ01000000](https://www.ncbi.nlm.nih.gov/nuccore/GGCZ01000000)|
 |Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Golden Promise|Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GGDA01000000](https://www.ncbi.nlm.nih.gov/nuccore/GGDA01000000)|
 |Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Grannenlose Zweizeilige|Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GGDB01000000](https://www.ncbi.nlm.nih.gov/nuccore/GGDB01000000)|
-|Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Haruna Nijo|Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[SRR5320556, GFJJ01000000](https://www.ncbi.nlm.nih.gov/nuccore/GFJJ01000000)|
+|Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Haruna Nijo|Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GFJJ01000000](https://www.ncbi.nlm.nih.gov/nuccore/GFJJ01000000)|
 |Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Heils Franken|Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GGDC01000000](https://www.ncbi.nlm.nih.gov/nuccore/GGDC01000000)|
 |Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Hindmarsh|Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GGDD01000000](https://www.ncbi.nlm.nih.gov/nuccore/GGDD01000000)|
 |Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |HOR 1428|Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GGDE01000000](https://www.ncbi.nlm.nih.gov/nuccore/GGDE01000000)|
@@ -87,7 +87,6 @@ permalink: /Data/
 |Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Igri|Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GGDG01000000](https://www.ncbi.nlm.nih.gov/nuccore/GGDG01000000)|
 |Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Manchuria|Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GFJO01000000](https://www.ncbi.nlm.nih.gov/nuccore/GFJO01000000)|
 |Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Maritime|Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GGDH01000000](https://www.ncbi.nlm.nih.gov/nuccore/GGDH01000000)|
-|Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Morex|Leaf  |[IBGSC](https://www.ncbi.nlm.nih.gov/)|[NA2017v1](https://www.ncbi.nlm.nih.gov/nuccore/2017v1)|
 |Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Pallas|Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GGDI01000000](https://www.ncbi.nlm.nih.gov/nuccore/GGDI01000000)|
 |Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Q21861|Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GGDJ01000000](https://www.ncbi.nlm.nih.gov/nuccore/GGDJ01000000)|
 |Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Russell|Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GGDK01000000](https://www.ncbi.nlm.nih.gov/nuccore/GGDK01000000)|
@@ -107,20 +106,26 @@ permalink: /Data/
 
 |Manuscript                                                  |Accessions|Repository                           |ID                                                                 |
 |:-----------------------------------------------------------|:--------:|:-----------------------------------:|:-----------------------------------------------------------------:|
-|Bettgenhaeuser <i>et al.</i> (2017) <i>Plant Physiology</i>        |ABR6      |[NCBI](https://www.ncbi.nlm.nih.gov/)|[PRJNA319372](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA319372/)|
+|Bettgenhaeuser <i>et al.</i> (2017) <i>Plant Physiology</i> |ABR6      |[NCBI](https://www.ncbi.nlm.nih.gov/)|[PRJNA319372](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA319372/)|
 
 ### RNAseq
 
-|Manuscript                                                  |Accessions|Tissue                                           |Repository                           |ID                                                                 |
-|:-----------------------------------------------------------|:--------:|:-------------------------------------------:|:-----------------------------------:|:-----------------------------------------------------------------:|
-|Bettgenhaeuser <i>et al.</i> (2017) <i>Plant Physiology</i>        |ABR6      |Leaves 4 and 5, Leaf 5 fully expanded|[NCBI](https://www.ncbi.nlm.nih.gov/)|[SRX1721358](https://www.ncbi.nlm.nih.gov/sra/SRX1721358[accn])|
-|Bettgenhaeuser <i>et al.</i> (2017) <i>Plant Physiology</i>        |Bd21      |Leaves 4 and 5, Leaf 5 fully expanded|[NCBI](https://www.ncbi.nlm.nih.gov/)|[SRX1721359](https://www.ncbi.nlm.nih.gov/sra/SRX1721359[accn])|
+|Manuscript                                                  |Accessions|Tissue                               |Repository                           |ID                                                                 |
+|:-----------------------------------------------------------|:--------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------------------------------------:|
+|Bettgenhaeuser <i>et al.</i> (2017) <i>Plant Physiology</i> |ABR6      |Leaves 4 and 5, Leaf 5 fully expanded|[NCBI](https://www.ncbi.nlm.nih.gov/)|[SRR3420430](https://www.ncbi.nlm.nih.gov/sra/SRR3420430[accn])    |
+|Bettgenhaeuser <i>et al.</i> (2017) <i>Plant Physiology</i> |Bd21      |Leaves 4 and 5, Leaf 5 fully expanded|[NCBI](https://www.ncbi.nlm.nih.gov/)|[SRR3420431](https://www.ncbi.nlm.nih.gov/sra/SRR3420431[accn])    |
+|Bettgenhaeuser <i>et al.</i> (2018) <i>unpublished</i>      |Luc1      |Leaves 4 and 5, Leaf 5 fully expanded|[NCBI](https://www.ncbi.nlm.nih.gov/)|[SRR5279891](https://www.ncbi.nlm.nih.gov/sra/SRR5279891[accn])    |
+|Bettgenhaeuser <i>et al.</i> (2018) <i>unpublished</i>      |Jer1      |Leaves 4 and 5, Leaf 5 fully expanded|[NCBI](https://www.ncbi.nlm.nih.gov/)|[SRR5279890](https://www.ncbi.nlm.nih.gov/sra/SRR5279890[accn])    |
+|Bettgenhaeuser <i>et al.</i> (2018) <i>unpublished</i>      |Foz1      |Leaves 4 and 5, Leaf 5 fully expanded|[NCBI](https://www.ncbi.nlm.nih.gov/)|[SRR5279889](https://www.ncbi.nlm.nih.gov/sra/SRR5279889[accn])    |
 
 ### Transcriptomes
 
-|Manuscript                                                  |Accessions|Tissue|Repository                           |ID                                                                 |
-|:-----------------------------------------------------------|:--------:|:----:|:-----------------------------------:|:-----------------------------------------------------------------:|
-|Bettgenhaeuser <i>et al.</i> (2017) <i>Plant Physiology</i>        |ABR6      |Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[LXJM00000000](https://www.ncbi.nlm.nih.gov/bioproject/?term=LXJM00000000)|
+|Manuscript                                                  |Accessions|Tissue|Repository                           |ID                                                                        |
+|:-----------------------------------------------------------|:--------:|:----:|:-----------------------------------:|:------------------------------------------------------------------------:|
+|Bettgenhaeuser <i>et al.</i> (2017) <i>Plant Physiology</i> |ABR6      |Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[LXJM00000000](https://www.ncbi.nlm.nih.gov/bioproject/?term=LXJM00000000)|
+|Bettgenhaeuser <i>et al.</i> (2018) <i>unpublished</i>      |Foz1      |Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GFJA00000000](https://www.ncbi.nlm.nih.gov/bioproject/?term=GFJA00000000)|
+|Bettgenhaeuser <i>et al.</i> (2018) <i>unpublished</i>      |Jer1      |Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GFJB00000000](https://www.ncbi.nlm.nih.gov/bioproject/?term=GFJB00000000)|
+|Bettgenhaeuser <i>et al.</i> (2018) <i>unpublished</i>      |Luc1      |Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GFJC00000000](https://www.ncbi.nlm.nih.gov/bioproject/?term=GFJC00000000)|
 
 ## Oat (<i>Avena sativa</i>)
 ### Genomes
@@ -141,8 +146,8 @@ permalink: /Data/
 
 |Manuscript                                                  |Accessions|Tissue|Repository                           |ID                                                                 |
 |:-----------------------------------------------------------|:--------:|:----:|:-----------------------------------:|:-----------------------------------------------------------------:|
-|Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Victoria  |Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GGDX01000000](https://www.ncbi.nlm.nih.gov/nuccore/GGDX01000000)|
-|Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Kanota    |Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GGDY01000000](https://www.ncbi.nlm.nih.gov/nuccore/GGDY01000000)|
+|Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Victoria  |Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GGDX01000000](https://www.ncbi.nlm.nih.gov/nuccore/GGDX01000000)  |
+|Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Kanota    |Leaf  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[GGDY01000000](https://www.ncbi.nlm.nih.gov/nuccore/GGDY01000000)  |
 
 
-Last updated: 2017 December 29
+Last updated: 2018 January 3
