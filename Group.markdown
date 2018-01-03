@@ -44,4 +44,4 @@ permalink: /Group/
 |Lucy Veck                    |   2017    |Undergraduate student              |
 |Aizhan Zhussupova            |   2016    |Visiting scientist                 |
 
-Last updated: 2017 December 29
+Last updated: 2017 January 3
