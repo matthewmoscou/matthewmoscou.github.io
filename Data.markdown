@@ -106,7 +106,9 @@ permalink: /Data/
 
 |Manuscript                                                  |Accessions|Repository                           |ID                                                                 |
 |:-----------------------------------------------------------|:--------:|:-----------------------------------:|:-----------------------------------------------------------------:|
-|Bettgenhaeuser <i>et al.</i> (2017) <i>Plant Physiology</i> |ABR6      |[NCBI](https://www.ncbi.nlm.nih.gov/)|[PRJNA319372](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA319372/)|
+|Bettgenhaeuser <i>et al.</i> (2017) <i>Plant Physiology</i> |ABR6      |[NCBI](https://www.ncbi.nlm.nih.gov/)|[LXJM00000000](https://www.ncbi.nlm.nih.gov/nuccore/LXJM00000000.1/)|
+|Bettgenhaeuser <i>et al.</i> (2017) <i>Plant Physiology</i> |BdTR10h   |[NCBI](https://www.ncbi.nlm.nih.gov/)|[MXPZ00000000](https://www.ncbi.nlm.nih.gov/nuccore/MXPZ00000000.1/)|
+|Bettgenhaeuser <i>et al.</i> (2017) <i>Plant Physiology</i> |BdTR13k   |[NCBI](https://www.ncbi.nlm.nih.gov/)|[MXQA00000000](https://www.ncbi.nlm.nih.gov/nuccore/MXQA00000000.1/)|
 
 ### RNAseq
 
