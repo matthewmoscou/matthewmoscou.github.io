@@ -5,7 +5,7 @@ permalink: /Publications/
 ---
 
 ## [bioRxiv](https://www.biorxiv.org/)
-Brabham, H. J., Hernández-Pinzón, I., Holden, S., Lorang, J., and Moscou, M.J. (2017) An ancient integration in a plant NLR is maintained as a <i>trans</i>-species polymorphism. <b><i>bioRxiv</i></b> 239541 [doi:10.1101/239541v2](http://doi.org/10.1101/239541v2)
+Brabham, H. J., Hernández-Pinzón, I., Holden, S., Lorang, J., and Moscou, M.J. (2017) An ancient integration in a plant NLR is maintained as a <i>trans</i>-species polymorphism. <b><i>bioRxiv</i></b> 239541 [doi:10.1101/239541](http://doi.org/10.1101/239541)
   * [Raw data for figures and <i>de novo</i> assembled transcriptomes on figshare](https://figshare.com/account/home#/projects/27682)
   * [Phylogenetic trees on iTOL](http://itol.embl.de/) - Under 'Sharing data' use the iTOL login: moscou
   * [Scripts and Exo70 annotation](https://github.com/matthewmoscou/Exo70)
