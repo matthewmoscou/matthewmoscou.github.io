@@ -10,10 +10,13 @@ permalink: /Group/
 |:----------------------------|:-------------:|:---------------------:|
 |Sue Banfield                 | 2012          |Technician             |
 |Helen Brabham                | 2015          |PhD student            |
+|Alexandru Chelu              | 2018          |Undergraduate student  |
 |Phon Green                   | 2011          |Greenhouse manager     |
 |Inmaculada Hernández-Pinzón  | 2010          |Lab manager            |
 |Samuel Holden                | 2016          |PhD student            |
 |Matthew Moscou               | 2010          |Group leader           |
+|Wachira Suwannarut           | 2018          |Undergraduate student  |
+|Chizu Yanagihara             | 2018          |Visiting scientist     |
 
 ## Alumni of the group include:
 
@@ -44,4 +47,4 @@ permalink: /Group/
 |Lucy Veck                    |   2017    |Undergraduate student              |
 |Aizhan Zhussupova            |   2016    |Visiting scientist                 |
 
-Last updated: 2017 January 3
+Last updated: 2018 March 8

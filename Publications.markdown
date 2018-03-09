@@ -4,7 +4,7 @@ title: Publications
 permalink: /Publications/
 ---
 
-## [bioRxiv](https://www.biorxiv.org/)
+## Preprints at [bioRxiv](https://www.biorxiv.org/)
 Brabham, H. J., Hernández-Pinzón, I., Holden, S., Lorang, J., and Moscou, M.J. (2017) An ancient integration in a plant NLR is maintained as a <i>trans</i>-species polymorphism. <b><i>bioRxiv</i></b> 239541 [doi:10.1101/239541](http://doi.org/10.1101/239541)
   * [Raw data for figures and <i>de novo</i> assembled transcriptomes on figshare](https://figshare.com/account/home#/projects/27682)
   * [Phylogenetic trees on iTOL](http://itol.embl.de/) - Under 'Sharing data' use the iTOL login: moscou
@@ -22,6 +22,9 @@ Bailey, P.C., Schudoma, C., Jackson, W., Baggs, E., Dagdas, G., Haerty, W., Mosc
   * [Scripts for CID domain analysis](https://github.com/matthewmoscou/NLR-ID_motif)
 
 Clare, S., Kitcher, W., Gardiner, M., Green, P., Hubbard, A., and Moscou, M.J. (2016) Defining the genetic architecture of stripe rust resistance in the barley accession HOR 1428. <b><i>bioRxiv</i></b> 093773 [doi:10.1101/093773](https://doi.org/10.1101/093773)
+
+## 2018
+Bailey, P.C., Schudoma, C., Jackson, W., Baggs, E., Dagdas, G., Haerty, W., Moscou, M., Krasileva, K.V. 2018. Dominant integration locus drives continuous diversification of plant immune receptors with exogenous domain fusions. <b><i>Genome Biology</i></b> <b>19</b>:23. [doi:10.1186/s13059-018-1392-6](https://doi.org/10.1186/s13059-018-1392-6)
 
 ## 2017
 Moscou, M. J. and van Esse, H. P. (2017) The quest for durable resistance. <b><i>Science</i></b> <b>358</b>:1541-1542. [doi:10.1126/science.aar4797](http://science.sciencemag.org/cgi/content/full/358/6370/1541?ijkey=/LGSoXCyQFClw&keytype=ref&siteid=sci)
