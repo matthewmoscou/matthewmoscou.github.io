@@ -20,13 +20,13 @@ Critical and example papers include:
 
 
 Critical papers include:
-> Churchill and Doerge
+> Churchill and Doerge (1996) Permutations tests for multiple loci affecting a quantitative character. ***Genetics*** **142**:285-294.
 
 ### Transgressive segregation
 
 
 Critical papers include:
-> DeVincente and Tanksley 
+> deVicente and Tanksley (1993) QTL analysis of transgressive segregation in an interspecific tomato cross. ***Genetics*** **134**:585-596.
 
 ## Genomics
 

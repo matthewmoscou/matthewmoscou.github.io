@@ -52,7 +52,23 @@ Graduate Research Excellence Award, [Iowa State University](www.iastate.edu), 20
 [BioVision.Nxt](http://www.biovision.org) Fellow, 2009  
 James Cornette Research Fellowship in Bioinformatics and Computational Biology, [Iowa State University](www.iastate.edu), 2008  
 
+## Preprints
+Ghosh, S., Watson, A., Gonzalez-Navarro, O.E., Ramirez-Gonzalez, R.H., Yanes, L., Mendoza-Suarez, M., Simmonds, J., Wells, R., Rayner, T., Green, P., Hafeez, A., Hayta, S., Melton, R.E., Steed, A., Sarkar, A., Carter, J., Perkins, L., Lord, J., Tester, M., Osbourn, A., Moscou, M.J., Nicholson, P., Harwood, W., Martin, C., Domoney, C., Uauy, C., Hazard, B., Wulff, B.B.H., Hickey, L.T. (2018) Speed breeding in growth chambers and glasshouses for crop breeding and model plant research. <b><i>bioRxiv</i></b> 369512 [doi:10.1101/369512](https://doi.org/10.1101/369512)
+
+Brabham, H. J., Hernández-Pinzón, I., Holden, S., Lorang, J., and Moscou, M.J. (2017) An ancient integration in a plant NLR is maintained as a <i>trans</i>-species polymorphism. <b><i>bioRxiv</i></b> 239541 [doi:10.1101/239541](http://doi.org/10.1101/239541)
+
+Clare, S., Kitcher, W., Gardiner, M., Green, P., Hubbard, A., and Moscou, M.J. (2016) Defining the genetic architecture of stripe rust resistance in the barley accession HOR 1428. <b><i>bioRxiv</i></b> 093773 [doi:10.1101/093773](https://doi.org/10.1101/093773)
+
 ## Publications
+### 2018
+Bettgenhaeuser, J., Gardiner, M., Spanner, R., Green, P., Hernández-Pinzón, I., Hubbard, A., Ayliffe, M., and Moscou, M.J. (2018) The genetic architecture of colonization resistance in <i>Brachypodium distachyon</i> to non-adapted stripe rust (<i>Puccinia striiformis</i>) isolates. <b><i>PLoS Genetics</i></b> Accepted.
+
+Gilbert, B., Bettgenhaeuser, J., Upadhyaya, N., Soliveres, M., Singh, D., Park, R.F., Moscou, M.J., and Ayliffe, M. (2018) Components of <i>Brachypodium distachyon</i> resistance to the nonadapted wheat stripe rust pathogens are simply inherited. <b><i>PLoS Genetics</i></b> Accepted.
+
+Omidvar, V., Dugyala, S., Li, F., Rottschaefer, S., Miller, M.E., Ayliffe, M., Moscou, M.J., Kianian, S.F., Figueroa, M. (2018) Detection of race-specific resistance against <i>Puccinia coronata</i> f. sp. <i>avenae</i> in <i>Brachypodium</i> species. <b><i>Phytopathology</i></b> Accepted.
+
+Bailey, P.C., Schudoma, C., Jackson, W., Baggs, E., Dagdas, G., Haerty, W., Moscou, M., Krasileva, K.V. 2018. Dominant integration locus drives continuous diversification of plant immune receptors with exogenous domain fusions. <b><i>Genome Biology</i></b> <b>19</b>:23. [doi:10.1186/s13059-018-1392-6](https://doi.org/10.1186/s13059-018-1392-6)
+
 ### 2017
 Moscou, M. J. and van Esse, H. P. (2017) The quest for durable resistance. <b><i>Science</i></b> <b>358</b>:1541-1542. [doi:10.1126/science.aar4797](http://doi.org/10.1126/science.aar4797)
 
@@ -198,4 +214,4 @@ Genetics Society of America
 International Society of Molecular Plant-Microbe Interactions  
 
 
-Last updated: 2017 December 29 
+Last updated: 2018 August 23
