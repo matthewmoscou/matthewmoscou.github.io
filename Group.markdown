@@ -11,7 +11,6 @@ permalink: /Group/
 |Sue Banfield                 | 2012          |Technician             |
 |Helen Brabham                | 2015          |PhD student            |
 |Francesco Cosenza            | 2018          |MSc student            |
-|Iacopo Gentile               | 2018          |Undergraduate student  |
 |Phon Green                   | 2011          |Greenhouse manager     |
 |Inmaculada Hernández-Pinzón  | 2010          |Lab manager            |
 |Samuel Holden                | 2016          |PhD student            |
@@ -39,6 +38,7 @@ permalink: /Group/
 |John Ferguson                |2011 - 2012|MSc student                        |
 |Sixtine Flipo                |   2012    |Undergraduate student              |
 |Matthew Gardiner             |2011 - 2015|Technician                         |
+|Iacopo Gentile               |   2018    |Undergraduate student              |
 |Noriko Ishikawa              |   2018    |Visiting scientist                 |
 |William Jackson              |2015 - 2017|Research associate                 |
 |William Kitcher              |2016 - 2017|Undergraduate/Msc student          |
