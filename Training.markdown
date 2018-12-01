@@ -32,7 +32,7 @@ Critical papers include:
 
 ### Visualization of genes and genomes
 [gggenes](https://github.com/wilkox/gggenes)  
-
+[dgenies](https://github.com/genotoul-bioinfo/dgenies) provides dotplots for large genomes
 
 ## Molecular Evolution
 
@@ -48,4 +48,4 @@ Critical papers include:
 [RNAseq tutorial from the Griffith Lab](https://github.com/griffithlab/rnaseq_tutorial)  
 [Counts, TPM, RPKM, and FPKM](https://haroldpimentel.wordpress.com/2014/05/08/what-the-fpkm-a-review-rna-seq-expression-units/)  
 
-Last updated: 2017 October 11
+Last updated: 2018 October 12
