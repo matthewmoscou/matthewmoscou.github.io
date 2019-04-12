@@ -10,15 +10,14 @@ permalink: /Group/
 |:----------------------------|:-------------:|:---------------------:|
 |Sue Banfield                 | 2012          |Technician             |
 |Helen Brabham                | 2015          |PhD student            |
-|Jiawen Chen                  | 2018          |Rotation PhD student   |
 |Phon Green                   | 2011          |Greenhouse manager     |
+|Diana Gomez De La Cruz       | 2019          |PhD student            |
 |Inmaculada Hernández-Pinzón  | 2010          |Lab manager            |
 |Samuel Holden                | 2016          |PhD student            |
 |Shanita John                 | 2018          |MSc student            |
 |Matthew Moscou               | 2010          |Group leader           |
 |James Russell                | 2018          |Pre-doctoral scientist |
 |Vera Sham                    | 2018          |Pre-doctoral scientist |
-|Janina Tamborski             | 2018          |Post-doctoral scientist|
 |Anupriya Thind               | 2018          |Post-doctoral scientist|
 |Elisha Thynne                | 2018          |Post-doctoral scientist|
 
@@ -32,6 +31,7 @@ permalink: /Group/
 |Philippa Borrill             |   2010    |Rotation PhD student               |
 |Danielle Ciren               |   2017    |Undergraduate student              |
 |Alexandru Chelu              |   2018    |Undergraduate student              |
+|Jiawen Chen                  |   2018    |Rotation PhD student               |
 |Shaun Clare                  |2015 - 2016|MSc student                        |
 |Chris Clark                  |2011 - 2013|High school student                |
 |Francesco Cosenza            |   2018    |MSc student                        |
@@ -56,8 +56,9 @@ permalink: /Group/
 |Rebecca Spanner              |2015 - 2016|MSc student                        |
 |Amber Sturgess               |   2013    |High school student                |
 |Wachira Suwannarut           |   2018    |Undergraduate student              |
+|Janina Tamborski             |2018 - 2019|Post-doctoral scientist            |
 |Lucy Veck                    |   2017    |Undergraduate student              |
 |Chizu Yanagihara             |   2018    |Visiting scientist                 |
 |Aizhan Zhussupova            |   2016    |Visiting scientist                 |
 
-Last updated: 2018 December 1
+Last updated: 2019 April 12
