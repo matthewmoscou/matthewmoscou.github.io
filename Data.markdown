@@ -52,9 +52,11 @@ permalink: /Data/
 ### Genomes
 #### NLRome
 
-|Manuscript                                                  |Accessions |Repository                           |ID                                                                 |
-|:-----------------------------------------------------------|:---------:|:-----------------------------------:|:-----------------------------------------------------------------:|
-|Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Baronesse  |[NCBI](https://www.ncbi.nlm.nih.gov/)|[PRJNA422986](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA422986/)|
+|Manuscript                                                  |Accessions     |Repository                           |ID                                                                 |
+|:-----------------------------------------------------------|:-------------:|:-----------------------------------:|:-----------------------------------------------------------------:|
+|Brabham <i>et al.</i> (2017) <i>bioRxiv</i>                 |Baronesse      |[NCBI](https://www.ncbi.nlm.nih.gov/)|[PRJNA422986](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA422986/)|
+|Bettgenhaeuser, Hernandez-Pinzon, et al. (2020)             |CI 16153       |[NCBI](https://www.ncbi.nlm.nih.gov/)|[PRJNA523805](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA523805/)|
+|Bettgenhaeuser, Hernandez-Pinzon, et al. (2020)             |Golden Promise |[NCBI](https://www.ncbi.nlm.nih.gov/)|[PRJNA523807](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA523807/)|
 
 ### Transcriptomes
 

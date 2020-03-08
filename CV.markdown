@@ -58,6 +58,12 @@ Brabham, H. J., Hernández-Pinzón, I., Holden, S., Lorang, J., and Moscou, M.J.
 Clare, S., Kitcher, W., Gardiner, M., Green, P., Hubbard, A., and Moscou, M.J. (2016) Defining the genetic architecture of stripe rust resistance in the barley accession HOR 1428. <b><i>bioRxiv</i></b> 093773 [doi:10.1101/093773](https://doi.org/10.1101/093773)
 
 ## Publications
+### 2020
+Hiebert, C.W.<sup>![alt text](../images/yin_yang.png "Authors contributed equally"){:height="12px" width="12px"}</sup>, Moscou, M.J.<sup>![alt text](../images/yin_yang.png "Authors contributed equally"){:height="12px" width="12px"}</sup>, Hewitt, T., Steuernagel, B., Hernández-Pinzón, I., Green, P., Pujol, V., Zhang, P., Rouse, M.N., Jin, Y., McIntosh, R.A., Upadhyaya, N., Zhang, J., Bhavani, S., Vrána, J., Karafiátová, M., Huang, L., Fetch, T., Doležel, J., Wulff, B.B.H., Lagudah, E., Spielmeyer, W. (2020) Stem rust resistance in wheat is suppressed by a subunit of the Mediator complex <b><i>Nature Communications</i></b> [doi:10.1038/s41467-020-14937-2](https://doi.org/10.1038/s41467-020-14937-2)
+
+Wei, B., Moscou, M.J., Sato, K., Gourlie, R., Strelkov, S., Aboukhaddour, R. (2020) Identification of a locus conferring dominant susceptibility to *Pyrenophora tritici-repentis* in barley. <b><i>Frontiers in Plant Science</i></b> [doi:10.3389/fpls.2020.00158](https://doi.org/10.3389/fpls.2020.00158)
+
+
 ### 2018
 Bettgenhaeuser, J., Gardiner, M., Spanner, R., Green, P., Hernández-Pinzón, I., Hubbard, A., Ayliffe, M., and Moscou, M.J. (2018) The genetic architecture of colonization resistance in <i>Brachypodium distachyon</i> to non-adapted stripe rust (<i>Puccinia striiformis</i>) isolates. <b><i>PLoS Genetics</i></b> <b>14</b>(9):e1007637. [doi:10.1371/journal.pgen.1007637](https://doi.org/10.1371/journal.pgen.1007637)
 
