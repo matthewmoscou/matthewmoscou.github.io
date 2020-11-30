@@ -30,7 +30,7 @@ Deciphering the transcriptional regulation and response of barley to obligate fu
 Advisors: Roger Wise and Julie Dickerson
 
 ## Professional Experience
-2018-present		Honorary Lecturer, University of East Anglia, UK
+2018-present		Honorary Lecturer, University of East Anglia, UK  
 2014-present		Group Leader, The Sainsbury Laboratory, UK  
 2013-2014		Team Leader, 2Blades Group, The Sainsbury Laboratory, UK  
 2010-2012	Post-doctoral Research Associate, 2Blades Group, The Sainsbury Laboratory, UK  
@@ -40,8 +40,8 @@ Summer 2009	Summer Intern, Syngenta Seeds, Inc. – Statistical Genetics Researc
 
 ## Teaching, Mentoring, and Supervision
 Supervisor of seven Ph.D. and nine Msc students (TSL, 2011-present)  
-Lecturer at the Instituto de Tecnologia Química e Biológica António Xavier (2019)
-The Sainsbury Laboratory Summer School, Lecturer (TSL, 2012, 2015, 2017)
+Lecturer at the Instituto de Tecnologia Química e Biológica António Xavier (2019)  
+The Sainsbury Laboratory Summer School, Lecturer (TSL, 2012, 2015, 2017)  
 Lecturer at the University of East Anglia for BIO-03C46 (Plant Biotechnology for Sustainable Food Production) (UEA, 2015)  
 EMBO Practical Course on Plant-Microbe Interactions, Lecturer (TSL, 2012)  
 Molecular Biology of Plant-Pathogen Interaction, Guest Lecturer (ISU, 2008)  
