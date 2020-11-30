@@ -30,6 +30,7 @@ Deciphering the transcriptional regulation and response of barley to obligate fu
 Advisors: Roger Wise and Julie Dickerson
 
 ## Professional Experience
+2018-present		Honorary Lecturer, University of East Anglia, UK
 2014-present		Group Leader, The Sainsbury Laboratory, UK  
 2013-2014		Team Leader, 2Blades Group, The Sainsbury Laboratory, UK  
 2010-2012	Post-doctoral Research Associate, 2Blades Group, The Sainsbury Laboratory, UK  
@@ -38,7 +39,9 @@ Summer 2009	Summer Intern, Syngenta Seeds, Inc. – Statistical Genetics Researc
 2004-2005		Programmer/Analyst I, University of California, Riverside  
 
 ## Teaching, Mentoring, and Supervision
-Supervisor of four Ph.D. and four Msc students (TSL, 2011-present)  
+Supervisor of seven Ph.D. and nine Msc students (TSL, 2011-present)  
+Lecturer at the Instituto de Tecnologia Química e Biológica António Xavier (2019)
+The Sainsbury Laboratory Summer School, Lecturer (TSL, 2012, 2015, 2017)
 Lecturer at the University of East Anglia for BIO-03C46 (Plant Biotechnology for Sustainable Food Production) (UEA, 2015)  
 EMBO Practical Course on Plant-Microbe Interactions, Lecturer (TSL, 2012)  
 Molecular Biology of Plant-Pathogen Interaction, Guest Lecturer (ISU, 2008)  
@@ -59,6 +62,11 @@ Clare, S., Kitcher, W., Gardiner, M., Green, P., Hubbard, A., and Moscou, M.J. (
 
 ## Publications
 ### 2020
+
+Panstruga, R. and Moscou, M.J. (2020) What is the molecular basis of nonhost resistance? <b><i>Molecular Plant-Microbe Interactions</i></b> [doi:10.1094/](https://doi.org/10.1094/)
+
+Read, A.C.<sup>![alt text](../images/yin_yang.png "Authors contributed equally"){:height="12px" width="12px"}</sup>, Hutin, M.<sup>![alt text](../images/yin_yang.png "Authors contributed equally"){:height="12px" width="12px"}</sup>, Moscou, M.J., Rinaldi, F.C., and Bogdanove, A. J. (2020) Cloning of the rice <i>Xo1</i> resistance gene and interaction of the Xo1 protein with the defense-suppressing <i>Xanthomonas</i> effector Tal2h <b><i>Molecular Plant-Microbe Interactions</i></b> [doi:10.1094/MPMI-05-20-0131-SC](https://doi.org/10.1094/MPMI-05-20-0131-SC)
+
 Hiebert, C.W.<sup>![alt text](../images/yin_yang.png "Authors contributed equally"){:height="12px" width="12px"}</sup>, Moscou, M.J.<sup>![alt text](../images/yin_yang.png "Authors contributed equally"){:height="12px" width="12px"}</sup>, Hewitt, T., Steuernagel, B., Hernández-Pinzón, I., Green, P., Pujol, V., Zhang, P., Rouse, M.N., Jin, Y., McIntosh, R.A., Upadhyaya, N., Zhang, J., Bhavani, S., Vrána, J., Karafiátová, M., Huang, L., Fetch, T., Doležel, J., Wulff, B.B.H., Lagudah, E., Spielmeyer, W. (2020) Stem rust resistance in wheat is suppressed by a subunit of the Mediator complex <b><i>Nature Communications</i></b> [doi:10.1038/s41467-020-14937-2](https://doi.org/10.1038/s41467-020-14937-2)
 
 Wei, B., Moscou, M.J., Sato, K., Gourlie, R., Strelkov, S., Aboukhaddour, R. (2020) Identification of a locus conferring dominant susceptibility to *Pyrenophora tritici-repentis* in barley. <b><i>Frontiers in Plant Science</i></b> [doi:10.3389/fpls.2020.00158](https://doi.org/10.3389/fpls.2020.00158)
@@ -220,4 +228,4 @@ Genetics Society of America
 International Society of Molecular Plant-Microbe Interactions  
 
 
-Last updated: 2018 August 23
+Last updated: 2020 November 30

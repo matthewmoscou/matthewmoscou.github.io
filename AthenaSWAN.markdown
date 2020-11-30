@@ -9,6 +9,8 @@ Ans Hekkenberg TEDxVenlo talk on 'Diversity - A Requisite for Excellent Science'
 
 > Ans Hekkenberg discusses the importance of diversity within science. She highlights the role of diversity in idenifying new solutions to intractible problems, x, y, and z.
 
+Snow Brown and the Seven Detergents: A Metanarrative on Science and the Scientific Method [link](https://www.jstor.org/stable/40004461)
+
 ## Unconcious bias
 Science faculty's subtle gender biases favor male students [link](www.pnas.org/cgi/doi/10.1073/pnas.1211286109)
 

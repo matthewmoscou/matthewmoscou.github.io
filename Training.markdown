@@ -30,10 +30,19 @@ Critical papers include:
 
 ## Genomics
 
+### Toolsets for analyzing genomes
+[EMBOSS](http://emboss.sourceforge.net/) provides a diverse set of programs to analyze genome, transcriptome, and proteome data
+[GenomeQC](https://link.springer.com/article/10.1186/s12864-020-6568-2) sets out a framework for benchmarking different assembly strategies
+[ORFcor](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058387) for correcting gene models post-annotation
+
 ### Visualization of genes and genomes
 [gggenes](https://github.com/wilkox/gggenes)  
 [dgenies](https://github.com/genotoul-bioinfo/dgenies) provides dotplots for large genomes  
 [smudgeplot](https://github.com/KamilSJaron/smudgeplot) provides visualization of ploidy and heterozygosity structure  
+
+### Assembling complex regions of the genome
+[HiCanu](https://www.biorxiv.org/content/10.1101/2020.03.14.992248v1)
+[HapCUT2](https://github.com/vibansal/HapCUT2)
 
 ## Molecular Evolution
 [PAML](http://evomics.org/learning/phylogenetics/paml/)  
@@ -66,6 +75,7 @@ Critical papers include:
 [Data Carpentry](https://datacarpentry.org/)  
 [Bioinformatics Core Training](https://github.com/bioinformatics-core-shared-training)  
 [Data Science Skills in Research](https://github.com/jduckles/dsskills)  
+[Teaching Resources in Bioinformatics for Life Sciences](http://rafalab.github.io/pages/teaching.html)
 
 ## Plant biology
 [What plants are important](https://sburgess895713696.wordpress.com/2019/01/19/what-is-plant-biology/)
@@ -77,7 +87,13 @@ Critical papers include:
 ## Graphic design
 [Canvas](www.canvas.com) design reports, flyers, posters, and other diverse media with a range of templates  
 
+## Language
+[Top 10,000 English words](https://github.com/first20hours/google-10000-english)
+
 ## E-mail
 [Mailchimp](https://mailchimp.com/) manages large e-mail mailing lists  
 
-Last updated: 2019 December 25
+## Random
+[I should have loved biology by James Somers](https://jsomers.net/i-should-have-loved-biology/)
+
+Last updated: 2020 November 30
